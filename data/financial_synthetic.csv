@@ -1,0 +1,1001 @@
+text,amount,label,metadata
+Purchase at Netflix for shopping. Date: 2025-02-15. Status: Cleared.,208.07,0,merchant:Netflix
+Purchase at Starbucks for groceries. Date: 2025-07-26. Status: Cleared.,151.34,0,merchant:Starbucks
+Purchase at Whole Foods for dining. Date: 2025-07-28. Status: Cleared.,40.57,0,merchant:Whole Foods
+Purchase at Amazon for entertainment. Date: 2025-08-06. Status: Cleared.,223.87,0,merchant:Amazon
+Purchase at Walmart for dining. Date: 2025-01-02. Status: Cleared.,9.97,0,merchant:Walmart
+Purchase at Starbucks for dining. Date: 2025-07-07. Status: Cleared.,16.74,0,merchant:Starbucks
+Purchase at Whole Foods for groceries. Date: 2025-07-19. Status: Cleared.,12.27,0,merchant:Whole Foods
+Purchase at Amazon for shopping. Date: 2025-03-11. Status: Cleared.,52.64,0,merchant:Amazon
+Purchase at Amazon for utilities. Date: 2025-06-11. Status: Cleared.,129.12,0,merchant:Amazon
+Purchase at Uber for dining. Date: 2025-05-11. Status: Cleared.,289.64,0,merchant:Uber
+Purchase at Starbucks for dining. Date: 2025-02-02. Status: Cleared.,22.12,0,merchant:Starbucks
+Purchase at Amazon for utilities. Date: 2025-05-13. Status: Cleared.,241.25,0,merchant:Amazon
+Purchase at Starbucks for groceries. Date: 2025-01-29. Status: Cleared.,81.62,0,merchant:Starbucks
+Purchase at Shell Station for utilities. Date: 2025-01-16. Status: Cleared.,35.86,0,merchant:Shell Station
+Purchase at Target for entertainment. Date: 2025-09-16. Status: Cleared.,82.5,0,merchant:Target
+Purchase at Netflix for shopping. Date: 2025-05-24. Status: Cleared.,297.84,0,merchant:Netflix
+Purchase at Target for transport. Date: 2025-06-08. Status: Cleared.,278.19,0,merchant:Target
+Purchase at Shell Station for entertainment. Date: 2025-05-27. Status: Cleared.,79.13,0,merchant:Shell Station
+Purchase at Walmart for utilities. Date: 2025-07-16. Status: Cleared.,62.03,0,merchant:Walmart
+Purchase at Walmart for entertainment. Date: 2025-11-04. Status: Cleared.,37.58,0,merchant:Walmart
+Purchase at Shell Station for entertainment. Date: 2025-01-25. Status: Cleared.,39.68,0,merchant:Shell Station
+Purchase at Uber for transport. Date: 2025-07-18. Status: Cleared.,48.39,0,merchant:Uber
+Purchase at Uber for dining. Date: 2025-05-23. Status: Cleared.,61.34,0,merchant:Uber
+Purchase at Uber for dining. Date: 2025-05-16. Status: Cleared.,139.95,0,merchant:Uber
+Purchase at Shell Station for transport. Date: 2025-03-13. Status: Cleared.,198.74,0,merchant:Shell Station
+Purchase at Amazon for groceries. Date: 2025-07-25. Status: Cleared.,105.16,0,merchant:Amazon
+Purchase at Uber for groceries. Date: 2025-07-19. Status: Cleared.,281.67,0,merchant:Uber
+Purchase at Walmart for dining. Date: 2025-07-29. Status: Cleared.,114.95,0,merchant:Walmart
+Purchase at Amazon for transport. Date: 2025-04-23. Status: Cleared.,261.18,0,merchant:Amazon
+Purchase at Shell Station for dining. Date: 2025-05-15. Status: Cleared.,65.19,0,merchant:Shell Station
+Purchase at Target for transport. Date: 2025-02-12. Status: Cleared.,18.25,0,merchant:Target
+Purchase at Amazon for groceries. Date: 2025-03-24. Status: Cleared.,184.74,0,merchant:Amazon
+Purchase at Walmart for shopping. Date: 2025-09-02. Status: Cleared.,7.66,0,merchant:Walmart
+Urgent wire transfer detected. Keyword: suspicious. Destination: Unknown. Amount: $43785.23. Risk: High.,43785.23,1,keyword:suspicious
+Purchase at Netflix for transport. Date: 2025-01-23. Status: Cleared.,249.78,0,merchant:Netflix
+Purchase at Starbucks for shopping. Date: 2025-08-01. Status: Cleared.,265.81,0,merchant:Starbucks
+Purchase at Starbucks for utilities. Date: 2025-03-01. Status: Cleared.,162.06,0,merchant:Starbucks
+Purchase at Uber for groceries. Date: 2025-10-23. Status: Cleared.,20.06,0,merchant:Uber
+Purchase at Whole Foods for transport. Date: 2025-01-18. Status: Cleared.,208.85,0,merchant:Whole Foods
+Purchase at Netflix for entertainment. Date: 2025-06-19. Status: Cleared.,241.46,0,merchant:Netflix
+Purchase at Netflix for entertainment. Date: 2025-10-12. Status: Cleared.,64.42,0,merchant:Netflix
+Purchase at Shell Station for dining. Date: 2025-09-18. Status: Cleared.,114.64,0,merchant:Shell Station
+Purchase at Target for utilities. Date: 2025-04-01. Status: Cleared.,260.96,0,merchant:Target
+Urgent wire transfer detected. Keyword: unverified. Destination: Unknown. Amount: $35220.49. Risk: High.,35220.49,1,keyword:unverified
+Purchase at Whole Foods for groceries. Date: 2025-08-28. Status: Cleared.,139.31,0,merchant:Whole Foods
+Purchase at Target for entertainment. Date: 2025-03-26. Status: Cleared.,62.99,0,merchant:Target
+Purchase at Starbucks for groceries. Date: 2025-06-22. Status: Cleared.,175.28,0,merchant:Starbucks
+Purchase at Starbucks for dining. Date: 2025-05-09. Status: Cleared.,286.87,0,merchant:Starbucks
+Purchase at Starbucks for groceries. Date: 2025-03-07. Status: Cleared.,288.1,0,merchant:Starbucks
+Purchase at Target for entertainment. Date: 2025-08-27. Status: Cleared.,184.25,0,merchant:Target
+Purchase at Uber for transport. Date: 2025-06-27. Status: Cleared.,249.09,0,merchant:Uber
+Purchase at Target for groceries. Date: 2025-07-30. Status: Cleared.,148.24,0,merchant:Target
+Purchase at Amazon for dining. Date: 2025-11-27. Status: Cleared.,179.91,0,merchant:Amazon
+Purchase at Amazon for entertainment. Date: 2025-06-09. Status: Cleared.,173.77,0,merchant:Amazon
+Purchase at Target for utilities. Date: 2025-10-06. Status: Cleared.,289.77,0,merchant:Target
+Purchase at Netflix for shopping. Date: 2025-05-20. Status: Cleared.,86.74,0,merchant:Netflix
+Purchase at Shell Station for groceries. Date: 2025-06-24. Status: Cleared.,47.86,0,merchant:Shell Station
+Purchase at Walmart for dining. Date: 2025-11-10. Status: Cleared.,91.71,0,merchant:Walmart
+Purchase at Netflix for shopping. Date: 2025-11-26. Status: Cleared.,74.13,0,merchant:Netflix
+Purchase at Amazon for dining. Date: 2025-06-03. Status: Cleared.,289.25,0,merchant:Amazon
+Purchase at Target for transport. Date: 2025-03-27. Status: Cleared.,272.89,0,merchant:Target
+Purchase at Starbucks for entertainment. Date: 2025-09-09. Status: Cleared.,244.89,0,merchant:Starbucks
+Purchase at Netflix for entertainment. Date: 2025-06-09. Status: Cleared.,11.89,0,merchant:Netflix
+Purchase at Netflix for entertainment. Date: 2025-04-30. Status: Cleared.,91.77,0,merchant:Netflix
+Purchase at Walmart for utilities. Date: 2025-12-05. Status: Cleared.,71.44,0,merchant:Walmart
+Purchase at Walmart for entertainment. Date: 2025-06-29. Status: Cleared.,73.33,0,merchant:Walmart
+Purchase at Walmart for groceries. Date: 2025-06-19. Status: Cleared.,96.0,0,merchant:Walmart
+Purchase at Netflix for transport. Date: 2025-09-28. Status: Cleared.,160.7,0,merchant:Netflix
+Purchase at Amazon for dining. Date: 2025-09-13. Status: Cleared.,41.54,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: gift card. Destination: Russia. Amount: $17565.57. Risk: High.,17565.57,1,keyword:gift card
+Purchase at Whole Foods for entertainment. Date: 2025-09-09. Status: Cleared.,278.63,0,merchant:Whole Foods
+Purchase at Uber for transport. Date: 2025-07-04. Status: Cleared.,241.2,0,merchant:Uber
+Purchase at Shell Station for utilities. Date: 2025-03-20. Status: Cleared.,276.74,0,merchant:Shell Station
+Purchase at Amazon for dining. Date: 2025-02-10. Status: Cleared.,109.24,0,merchant:Amazon
+Purchase at Uber for utilities. Date: 2025-03-02. Status: Cleared.,165.44,0,merchant:Uber
+Purchase at Uber for utilities. Date: 2025-05-16. Status: Cleared.,125.63,0,merchant:Uber
+Purchase at Target for dining. Date: 2025-02-14. Status: Cleared.,61.26,0,merchant:Target
+Purchase at Starbucks for shopping. Date: 2025-03-29. Status: Cleared.,57.81,0,merchant:Starbucks
+Purchase at Target for dining. Date: 2025-12-02. Status: Cleared.,45.66,0,merchant:Target
+Urgent wire transfer detected. Keyword: offshore. Destination: Panama. Amount: $23547.33. Risk: High.,23547.33,1,keyword:offshore
+Urgent wire transfer detected. Keyword: gift card. Destination: Unknown. Amount: $40544.85. Risk: High.,40544.85,1,keyword:gift card
+Purchase at Starbucks for dining. Date: 2025-05-08. Status: Cleared.,158.55,0,merchant:Starbucks
+Purchase at Target for entertainment. Date: 2025-06-14. Status: Cleared.,118.18,0,merchant:Target
+Purchase at Shell Station for dining. Date: 2025-12-05. Status: Cleared.,140.86,0,merchant:Shell Station
+Purchase at Walmart for dining. Date: 2025-09-13. Status: Cleared.,261.64,0,merchant:Walmart
+Purchase at Amazon for groceries. Date: 2025-09-24. Status: Cleared.,223.33,0,merchant:Amazon
+Purchase at Amazon for shopping. Date: 2025-07-10. Status: Cleared.,194.22,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: gift card. Destination: Cyprus. Amount: $37270.39. Risk: High.,37270.39,1,keyword:gift card
+Purchase at Uber for groceries. Date: 2025-09-09. Status: Cleared.,148.36,0,merchant:Uber
+Purchase at Walmart for shopping. Date: 2025-01-26. Status: Cleared.,78.26,0,merchant:Walmart
+Purchase at Target for dining. Date: 2025-06-05. Status: Cleared.,65.7,0,merchant:Target
+Purchase at Walmart for shopping. Date: 2025-11-21. Status: Cleared.,140.6,0,merchant:Walmart
+Purchase at Shell Station for entertainment. Date: 2025-07-08. Status: Cleared.,45.1,0,merchant:Shell Station
+Purchase at Uber for groceries. Date: 2025-02-03. Status: Cleared.,147.2,0,merchant:Uber
+Purchase at Target for utilities. Date: 2025-09-06. Status: Cleared.,35.48,0,merchant:Target
+Purchase at Netflix for entertainment. Date: 2025-11-07. Status: Cleared.,232.54,0,merchant:Netflix
+Purchase at Uber for utilities. Date: 2025-06-20. Status: Cleared.,286.73,0,merchant:Uber
+Purchase at Shell Station for transport. Date: 2025-02-14. Status: Cleared.,111.4,0,merchant:Shell Station
+Purchase at Uber for entertainment. Date: 2025-01-03. Status: Cleared.,219.78,0,merchant:Uber
+Purchase at Uber for dining. Date: 2025-05-28. Status: Cleared.,174.81,0,merchant:Uber
+Purchase at Uber for utilities. Date: 2025-09-10. Status: Cleared.,43.23,0,merchant:Uber
+Purchase at Netflix for transport. Date: 2025-01-03. Status: Cleared.,8.24,0,merchant:Netflix
+Purchase at Whole Foods for utilities. Date: 2025-03-21. Status: Cleared.,40.96,0,merchant:Whole Foods
+Purchase at Walmart for utilities. Date: 2025-09-16. Status: Cleared.,48.07,0,merchant:Walmart
+Purchase at Shell Station for entertainment. Date: 2025-08-12. Status: Cleared.,159.1,0,merchant:Shell Station
+Purchase at Uber for dining. Date: 2025-03-18. Status: Cleared.,140.23,0,merchant:Uber
+Purchase at Target for shopping. Date: 2025-07-06. Status: Cleared.,70.65,0,merchant:Target
+Purchase at Netflix for dining. Date: 2025-02-13. Status: Cleared.,159.75,0,merchant:Netflix
+Purchase at Netflix for shopping. Date: 2025-05-03. Status: Cleared.,83.65,0,merchant:Netflix
+Purchase at Walmart for groceries. Date: 2025-09-02. Status: Cleared.,297.24,0,merchant:Walmart
+Purchase at Starbucks for utilities. Date: 2025-06-16. Status: Cleared.,88.6,0,merchant:Starbucks
+Purchase at Walmart for utilities. Date: 2025-03-12. Status: Cleared.,143.14,0,merchant:Walmart
+Purchase at Amazon for transport. Date: 2025-01-21. Status: Cleared.,250.39,0,merchant:Amazon
+Purchase at Shell Station for utilities. Date: 2025-08-28. Status: Cleared.,274.76,0,merchant:Shell Station
+Purchase at Starbucks for dining. Date: 2025-10-06. Status: Cleared.,168.86,0,merchant:Starbucks
+Purchase at Whole Foods for entertainment. Date: 2025-07-07. Status: Cleared.,38.05,0,merchant:Whole Foods
+Purchase at Starbucks for shopping. Date: 2025-10-27. Status: Cleared.,63.06,0,merchant:Starbucks
+Purchase at Netflix for transport. Date: 2025-09-18. Status: Cleared.,123.29,0,merchant:Netflix
+Urgent wire transfer detected. Keyword: unverified. Destination: Unknown. Amount: $28459.54. Risk: High.,28459.54,1,keyword:unverified
+Purchase at Netflix for dining. Date: 2025-10-12. Status: Cleared.,173.24,0,merchant:Netflix
+Purchase at Whole Foods for entertainment. Date: 2025-05-04. Status: Cleared.,27.4,0,merchant:Whole Foods
+Purchase at Target for transport. Date: 2025-09-29. Status: Cleared.,76.75,0,merchant:Target
+Purchase at Starbucks for groceries. Date: 2025-03-31. Status: Cleared.,201.3,0,merchant:Starbucks
+Purchase at Netflix for dining. Date: 2025-10-30. Status: Cleared.,146.9,0,merchant:Netflix
+Purchase at Whole Foods for utilities. Date: 2025-08-07. Status: Cleared.,107.44,0,merchant:Whole Foods
+Purchase at Starbucks for shopping. Date: 2025-11-10. Status: Cleared.,18.55,0,merchant:Starbucks
+Purchase at Shell Station for shopping. Date: 2025-10-26. Status: Cleared.,8.5,0,merchant:Shell Station
+Purchase at Target for groceries. Date: 2025-04-13. Status: Cleared.,7.62,0,merchant:Target
+Purchase at Walmart for shopping. Date: 2025-09-30. Status: Cleared.,149.02,0,merchant:Walmart
+Purchase at Netflix for transport. Date: 2025-10-21. Status: Cleared.,190.2,0,merchant:Netflix
+Purchase at Shell Station for dining. Date: 2025-04-19. Status: Cleared.,114.7,0,merchant:Shell Station
+Purchase at Whole Foods for entertainment. Date: 2025-05-29. Status: Cleared.,235.15,0,merchant:Whole Foods
+Purchase at Whole Foods for utilities. Date: 2025-10-02. Status: Cleared.,175.72,0,merchant:Whole Foods
+Purchase at Starbucks for dining. Date: 2025-05-11. Status: Cleared.,148.06,0,merchant:Starbucks
+Purchase at Starbucks for utilities. Date: 2025-02-03. Status: Cleared.,193.22,0,merchant:Starbucks
+Purchase at Netflix for utilities. Date: 2025-01-20. Status: Cleared.,215.51,0,merchant:Netflix
+Purchase at Starbucks for groceries. Date: 2025-01-29. Status: Cleared.,261.8,0,merchant:Starbucks
+Purchase at Walmart for shopping. Date: 2025-10-14. Status: Cleared.,287.53,0,merchant:Walmart
+Purchase at Starbucks for utilities. Date: 2025-09-23. Status: Cleared.,35.79,0,merchant:Starbucks
+Purchase at Netflix for dining. Date: 2025-08-02. Status: Cleared.,96.05,0,merchant:Netflix
+Purchase at Netflix for entertainment. Date: 2025-11-27. Status: Cleared.,234.16,0,merchant:Netflix
+Purchase at Walmart for shopping. Date: 2025-03-16. Status: Cleared.,151.76,0,merchant:Walmart
+Urgent wire transfer detected. Keyword: crypto. Destination: Unknown. Amount: $34119.63. Risk: High.,34119.63,1,keyword:crypto
+Purchase at Uber for transport. Date: 2025-06-26. Status: Cleared.,33.39,0,merchant:Uber
+Purchase at Walmart for groceries. Date: 2025-06-20. Status: Cleared.,19.76,0,merchant:Walmart
+Purchase at Whole Foods for dining. Date: 2025-05-17. Status: Cleared.,36.19,0,merchant:Whole Foods
+Purchase at Shell Station for entertainment. Date: 2025-09-11. Status: Cleared.,150.23,0,merchant:Shell Station
+Urgent wire transfer detected. Keyword: offshore. Destination: Russia. Amount: $11156.63. Risk: High.,11156.63,1,keyword:offshore
+Urgent wire transfer detected. Keyword: urgent. Destination: Cyprus. Amount: $8371.36. Risk: High.,8371.36,1,keyword:urgent
+Purchase at Amazon for utilities. Date: 2025-04-30. Status: Cleared.,208.69,0,merchant:Amazon
+Purchase at Target for groceries. Date: 2025-07-06. Status: Cleared.,71.62,0,merchant:Target
+Purchase at Uber for shopping. Date: 2025-08-26. Status: Cleared.,35.85,0,merchant:Uber
+Purchase at Uber for transport. Date: 2025-09-25. Status: Cleared.,182.15,0,merchant:Uber
+Purchase at Walmart for groceries. Date: 2025-05-21. Status: Cleared.,251.99,0,merchant:Walmart
+Purchase at Starbucks for dining. Date: 2025-06-12. Status: Cleared.,97.75,0,merchant:Starbucks
+Purchase at Starbucks for entertainment. Date: 2025-06-27. Status: Cleared.,289.44,0,merchant:Starbucks
+Urgent wire transfer detected. Keyword: offshore. Destination: Cyprus. Amount: $33741.85. Risk: High.,33741.85,1,keyword:offshore
+Purchase at Amazon for dining. Date: 2025-03-29. Status: Cleared.,243.57,0,merchant:Amazon
+Purchase at Starbucks for dining. Date: 2025-01-22. Status: Cleared.,296.46,0,merchant:Starbucks
+Purchase at Amazon for groceries. Date: 2025-08-30. Status: Cleared.,252.89,0,merchant:Amazon
+Purchase at Whole Foods for groceries. Date: 2025-06-28. Status: Cleared.,295.72,0,merchant:Whole Foods
+Purchase at Netflix for transport. Date: 2025-05-24. Status: Cleared.,261.12,0,merchant:Netflix
+Purchase at Uber for entertainment. Date: 2025-03-27. Status: Cleared.,57.55,0,merchant:Uber
+Purchase at Starbucks for transport. Date: 2025-01-09. Status: Cleared.,6.2,0,merchant:Starbucks
+Purchase at Starbucks for shopping. Date: 2025-08-15. Status: Cleared.,111.4,0,merchant:Starbucks
+Purchase at Starbucks for transport. Date: 2025-03-30. Status: Cleared.,55.53,0,merchant:Starbucks
+Purchase at Walmart for groceries. Date: 2025-08-04. Status: Cleared.,236.99,0,merchant:Walmart
+Purchase at Walmart for groceries. Date: 2025-11-09. Status: Cleared.,211.51,0,merchant:Walmart
+Purchase at Netflix for groceries. Date: 2025-07-27. Status: Cleared.,198.71,0,merchant:Netflix
+Urgent wire transfer detected. Keyword: gift card. Destination: Cyprus. Amount: $3537.87. Risk: High.,3537.87,1,keyword:gift card
+Purchase at Whole Foods for dining. Date: 2025-07-05. Status: Cleared.,298.82,0,merchant:Whole Foods
+Purchase at Amazon for shopping. Date: 2025-06-19. Status: Cleared.,124.28,0,merchant:Amazon
+Purchase at Whole Foods for shopping. Date: 2025-01-20. Status: Cleared.,270.03,0,merchant:Whole Foods
+Purchase at Amazon for groceries. Date: 2025-07-14. Status: Cleared.,67.84,0,merchant:Amazon
+Purchase at Walmart for shopping. Date: 2025-10-19. Status: Cleared.,48.48,0,merchant:Walmart
+Purchase at Starbucks for dining. Date: 2025-05-19. Status: Cleared.,297.26,0,merchant:Starbucks
+Purchase at Shell Station for shopping. Date: 2025-03-26. Status: Cleared.,168.91,0,merchant:Shell Station
+Purchase at Starbucks for groceries. Date: 2025-08-10. Status: Cleared.,9.52,0,merchant:Starbucks
+Purchase at Amazon for utilities. Date: 2025-02-18. Status: Cleared.,280.43,0,merchant:Amazon
+Purchase at Amazon for transport. Date: 2025-08-21. Status: Cleared.,289.96,0,merchant:Amazon
+Purchase at Starbucks for groceries. Date: 2025-05-27. Status: Cleared.,37.98,0,merchant:Starbucks
+Purchase at Whole Foods for shopping. Date: 2025-02-08. Status: Cleared.,191.85,0,merchant:Whole Foods
+Purchase at Amazon for groceries. Date: 2025-04-17. Status: Cleared.,232.97,0,merchant:Amazon
+Purchase at Amazon for groceries. Date: 2025-06-27. Status: Cleared.,43.3,0,merchant:Amazon
+Purchase at Uber for transport. Date: 2025-12-04. Status: Cleared.,59.07,0,merchant:Uber
+Purchase at Shell Station for shopping. Date: 2025-06-15. Status: Cleared.,281.63,0,merchant:Shell Station
+Purchase at Target for utilities. Date: 2025-11-01. Status: Cleared.,191.41,0,merchant:Target
+Purchase at Amazon for groceries. Date: 2025-10-17. Status: Cleared.,174.74,0,merchant:Amazon
+Purchase at Walmart for utilities. Date: 2025-06-05. Status: Cleared.,12.8,0,merchant:Walmart
+Purchase at Uber for groceries. Date: 2025-04-23. Status: Cleared.,131.33,0,merchant:Uber
+Urgent wire transfer detected. Keyword: offshore. Destination: Panama. Amount: $40384.83. Risk: High.,40384.83,1,keyword:offshore
+Purchase at Target for groceries. Date: 2025-08-24. Status: Cleared.,224.63,0,merchant:Target
+Purchase at Uber for dining. Date: 2025-02-06. Status: Cleared.,174.92,0,merchant:Uber
+Purchase at Uber for entertainment. Date: 2025-09-23. Status: Cleared.,258.4,0,merchant:Uber
+Purchase at Netflix for dining. Date: 2025-01-13. Status: Cleared.,79.64,0,merchant:Netflix
+Purchase at Whole Foods for utilities. Date: 2025-06-11. Status: Cleared.,202.19,0,merchant:Whole Foods
+Purchase at Target for dining. Date: 2025-09-22. Status: Cleared.,153.81,0,merchant:Target
+Purchase at Shell Station for entertainment. Date: 2025-02-19. Status: Cleared.,85.56,0,merchant:Shell Station
+Purchase at Shell Station for transport. Date: 2025-02-12. Status: Cleared.,36.68,0,merchant:Shell Station
+Purchase at Whole Foods for entertainment. Date: 2025-10-29. Status: Cleared.,221.81,0,merchant:Whole Foods
+Purchase at Starbucks for utilities. Date: 2025-04-28. Status: Cleared.,87.71,0,merchant:Starbucks
+Purchase at Shell Station for groceries. Date: 2025-02-16. Status: Cleared.,143.46,0,merchant:Shell Station
+Purchase at Amazon for utilities. Date: 2025-03-10. Status: Cleared.,134.01,0,merchant:Amazon
+Purchase at Amazon for transport. Date: 2025-07-29. Status: Cleared.,105.99,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: unverified. Destination: Russia. Amount: $27382.26. Risk: High.,27382.26,1,keyword:unverified
+Purchase at Whole Foods for entertainment. Date: 2025-08-31. Status: Cleared.,35.79,0,merchant:Whole Foods
+Purchase at Target for transport. Date: 2025-09-26. Status: Cleared.,274.03,0,merchant:Target
+Urgent wire transfer detected. Keyword: gift card. Destination: Cayman Islands. Amount: $28871.63. Risk: High.,28871.63,1,keyword:gift card
+Purchase at Walmart for transport. Date: 2025-08-03. Status: Cleared.,286.01,0,merchant:Walmart
+Purchase at Amazon for shopping. Date: 2025-04-25. Status: Cleared.,275.74,0,merchant:Amazon
+Purchase at Starbucks for groceries. Date: 2025-09-24. Status: Cleared.,117.95,0,merchant:Starbucks
+Purchase at Netflix for dining. Date: 2025-03-16. Status: Cleared.,80.59,0,merchant:Netflix
+Purchase at Target for entertainment. Date: 2025-06-08. Status: Cleared.,155.64,0,merchant:Target
+Purchase at Netflix for entertainment. Date: 2025-11-20. Status: Cleared.,144.45,0,merchant:Netflix
+Purchase at Shell Station for dining. Date: 2025-11-20. Status: Cleared.,222.28,0,merchant:Shell Station
+Purchase at Uber for groceries. Date: 2025-05-12. Status: Cleared.,209.94,0,merchant:Uber
+Purchase at Walmart for shopping. Date: 2025-10-29. Status: Cleared.,272.78,0,merchant:Walmart
+Purchase at Starbucks for dining. Date: 2025-02-14. Status: Cleared.,150.18,0,merchant:Starbucks
+Purchase at Walmart for entertainment. Date: 2025-06-12. Status: Cleared.,244.5,0,merchant:Walmart
+Purchase at Starbucks for transport. Date: 2025-03-12. Status: Cleared.,129.08,0,merchant:Starbucks
+Purchase at Netflix for utilities. Date: 2025-05-27. Status: Cleared.,185.54,0,merchant:Netflix
+Purchase at Whole Foods for utilities. Date: 2025-05-02. Status: Cleared.,163.2,0,merchant:Whole Foods
+Purchase at Walmart for transport. Date: 2025-01-09. Status: Cleared.,261.63,0,merchant:Walmart
+Purchase at Walmart for transport. Date: 2025-10-21. Status: Cleared.,84.61,0,merchant:Walmart
+Purchase at Netflix for groceries. Date: 2025-10-06. Status: Cleared.,141.02,0,merchant:Netflix
+Purchase at Netflix for transport. Date: 2025-02-16. Status: Cleared.,30.55,0,merchant:Netflix
+Purchase at Amazon for shopping. Date: 2025-11-28. Status: Cleared.,243.71,0,merchant:Amazon
+Purchase at Amazon for groceries. Date: 2025-11-02. Status: Cleared.,191.33,0,merchant:Amazon
+Purchase at Whole Foods for shopping. Date: 2025-06-14. Status: Cleared.,20.76,0,merchant:Whole Foods
+Purchase at Starbucks for utilities. Date: 2025-03-20. Status: Cleared.,9.42,0,merchant:Starbucks
+Purchase at Uber for groceries. Date: 2025-05-21. Status: Cleared.,224.47,0,merchant:Uber
+Purchase at Netflix for dining. Date: 2025-07-19. Status: Cleared.,71.37,0,merchant:Netflix
+Purchase at Walmart for groceries. Date: 2025-10-10. Status: Cleared.,177.37,0,merchant:Walmart
+Purchase at Netflix for entertainment. Date: 2025-03-30. Status: Cleared.,171.85,0,merchant:Netflix
+Purchase at Target for transport. Date: 2025-02-09. Status: Cleared.,273.59,0,merchant:Target
+Purchase at Starbucks for entertainment. Date: 2025-07-12. Status: Cleared.,165.24,0,merchant:Starbucks
+Purchase at Walmart for entertainment. Date: 2025-01-15. Status: Cleared.,172.42,0,merchant:Walmart
+Purchase at Netflix for entertainment. Date: 2025-12-02. Status: Cleared.,172.7,0,merchant:Netflix
+Purchase at Walmart for dining. Date: 2025-09-11. Status: Cleared.,288.54,0,merchant:Walmart
+Purchase at Starbucks for utilities. Date: 2025-03-24. Status: Cleared.,180.51,0,merchant:Starbucks
+Purchase at Uber for dining. Date: 2025-06-19. Status: Cleared.,251.11,0,merchant:Uber
+Purchase at Target for groceries. Date: 2025-09-06. Status: Cleared.,116.47,0,merchant:Target
+Purchase at Walmart for transport. Date: 2025-05-11. Status: Cleared.,274.45,0,merchant:Walmart
+Purchase at Uber for transport. Date: 2025-03-03. Status: Cleared.,127.36,0,merchant:Uber
+Purchase at Uber for dining. Date: 2025-06-16. Status: Cleared.,275.34,0,merchant:Uber
+Purchase at Amazon for shopping. Date: 2025-08-23. Status: Cleared.,271.3,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: suspicious. Destination: Cyprus. Amount: $7863.87. Risk: High.,7863.87,1,keyword:suspicious
+Purchase at Amazon for utilities. Date: 2025-11-01. Status: Cleared.,25.69,0,merchant:Amazon
+Purchase at Uber for shopping. Date: 2025-04-26. Status: Cleared.,193.59,0,merchant:Uber
+Purchase at Shell Station for entertainment. Date: 2025-03-11. Status: Cleared.,18.06,0,merchant:Shell Station
+Purchase at Starbucks for dining. Date: 2025-10-09. Status: Cleared.,107.3,0,merchant:Starbucks
+Purchase at Starbucks for entertainment. Date: 2025-09-04. Status: Cleared.,211.92,0,merchant:Starbucks
+Purchase at Netflix for groceries. Date: 2025-05-14. Status: Cleared.,105.27,0,merchant:Netflix
+Urgent wire transfer detected. Keyword: offshore. Destination: Panama. Amount: $35976.75. Risk: High.,35976.75,1,keyword:offshore
+Purchase at Walmart for dining. Date: 2025-09-22. Status: Cleared.,205.73,0,merchant:Walmart
+Purchase at Whole Foods for transport. Date: 2025-11-26. Status: Cleared.,166.42,0,merchant:Whole Foods
+Purchase at Target for shopping. Date: 2025-05-10. Status: Cleared.,137.67,0,merchant:Target
+Purchase at Netflix for transport. Date: 2025-01-27. Status: Cleared.,49.02,0,merchant:Netflix
+Purchase at Whole Foods for groceries. Date: 2025-10-02. Status: Cleared.,122.16,0,merchant:Whole Foods
+Purchase at Amazon for dining. Date: 2025-11-09. Status: Cleared.,111.47,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: gift card. Destination: Cyprus. Amount: $31791.59. Risk: High.,31791.59,1,keyword:gift card
+Purchase at Netflix for shopping. Date: 2025-06-16. Status: Cleared.,150.84,0,merchant:Netflix
+Purchase at Starbucks for dining. Date: 2025-01-30. Status: Cleared.,151.41,0,merchant:Starbucks
+Purchase at Target for groceries. Date: 2025-02-16. Status: Cleared.,42.0,0,merchant:Target
+Purchase at Starbucks for groceries. Date: 2025-04-10. Status: Cleared.,149.61,0,merchant:Starbucks
+Purchase at Netflix for entertainment. Date: 2025-11-19. Status: Cleared.,130.78,0,merchant:Netflix
+Purchase at Shell Station for transport. Date: 2025-07-23. Status: Cleared.,227.49,0,merchant:Shell Station
+Purchase at Shell Station for utilities. Date: 2025-12-06. Status: Cleared.,223.28,0,merchant:Shell Station
+Purchase at Target for dining. Date: 2025-06-19. Status: Cleared.,203.38,0,merchant:Target
+Purchase at Starbucks for utilities. Date: 2025-05-26. Status: Cleared.,39.17,0,merchant:Starbucks
+Purchase at Amazon for groceries. Date: 2025-06-18. Status: Cleared.,177.97,0,merchant:Amazon
+Purchase at Amazon for shopping. Date: 2025-03-09. Status: Cleared.,227.79,0,merchant:Amazon
+Purchase at Netflix for utilities. Date: 2025-02-19. Status: Cleared.,232.29,0,merchant:Netflix
+Purchase at Target for utilities. Date: 2025-08-16. Status: Cleared.,286.09,0,merchant:Target
+Purchase at Target for groceries. Date: 2025-05-09. Status: Cleared.,217.95,0,merchant:Target
+Purchase at Amazon for transport. Date: 2025-10-15. Status: Cleared.,234.79,0,merchant:Amazon
+Purchase at Target for dining. Date: 2025-06-18. Status: Cleared.,221.2,0,merchant:Target
+Purchase at Starbucks for transport. Date: 2025-08-09. Status: Cleared.,12.57,0,merchant:Starbucks
+Purchase at Starbucks for entertainment. Date: 2025-07-15. Status: Cleared.,186.94,0,merchant:Starbucks
+Purchase at Uber for utilities. Date: 2025-04-15. Status: Cleared.,19.61,0,merchant:Uber
+Purchase at Netflix for transport. Date: 2025-04-01. Status: Cleared.,299.05,0,merchant:Netflix
+Purchase at Target for shopping. Date: 2025-04-09. Status: Cleared.,97.65,0,merchant:Target
+Purchase at Target for transport. Date: 2025-06-04. Status: Cleared.,213.32,0,merchant:Target
+Purchase at Starbucks for dining. Date: 2025-05-03. Status: Cleared.,257.67,0,merchant:Starbucks
+Purchase at Walmart for shopping. Date: 2025-10-29. Status: Cleared.,260.26,0,merchant:Walmart
+Purchase at Amazon for transport. Date: 2025-12-01. Status: Cleared.,188.23,0,merchant:Amazon
+Purchase at Netflix for shopping. Date: 2025-03-30. Status: Cleared.,226.48,0,merchant:Netflix
+Purchase at Netflix for entertainment. Date: 2025-03-27. Status: Cleared.,130.79,0,merchant:Netflix
+Purchase at Target for utilities. Date: 2025-08-13. Status: Cleared.,261.76,0,merchant:Target
+Purchase at Shell Station for groceries. Date: 2025-04-17. Status: Cleared.,96.7,0,merchant:Shell Station
+Purchase at Walmart for groceries. Date: 2025-06-01. Status: Cleared.,136.15,0,merchant:Walmart
+Purchase at Netflix for shopping. Date: 2025-06-22. Status: Cleared.,184.04,0,merchant:Netflix
+Purchase at Amazon for utilities. Date: 2025-10-13. Status: Cleared.,9.02,0,merchant:Amazon
+Purchase at Shell Station for utilities. Date: 2025-06-02. Status: Cleared.,202.45,0,merchant:Shell Station
+Purchase at Shell Station for dining. Date: 2025-10-12. Status: Cleared.,67.73,0,merchant:Shell Station
+Purchase at Starbucks for groceries. Date: 2025-08-14. Status: Cleared.,271.2,0,merchant:Starbucks
+Purchase at Whole Foods for entertainment. Date: 2025-11-04. Status: Cleared.,140.01,0,merchant:Whole Foods
+Purchase at Walmart for groceries. Date: 2025-05-13. Status: Cleared.,27.93,0,merchant:Walmart
+Purchase at Starbucks for entertainment. Date: 2025-02-26. Status: Cleared.,21.41,0,merchant:Starbucks
+Purchase at Shell Station for dining. Date: 2025-05-25. Status: Cleared.,154.19,0,merchant:Shell Station
+Purchase at Shell Station for shopping. Date: 2025-03-10. Status: Cleared.,295.11,0,merchant:Shell Station
+Purchase at Walmart for transport. Date: 2025-07-02. Status: Cleared.,28.76,0,merchant:Walmart
+Purchase at Shell Station for groceries. Date: 2025-05-08. Status: Cleared.,146.24,0,merchant:Shell Station
+Purchase at Walmart for transport. Date: 2025-06-24. Status: Cleared.,240.79,0,merchant:Walmart
+Purchase at Uber for utilities. Date: 2025-11-12. Status: Cleared.,74.16,0,merchant:Uber
+Purchase at Walmart for utilities. Date: 2025-10-02. Status: Cleared.,273.59,0,merchant:Walmart
+Purchase at Whole Foods for groceries. Date: 2025-07-31. Status: Cleared.,254.99,0,merchant:Whole Foods
+Purchase at Amazon for groceries. Date: 2025-01-07. Status: Cleared.,157.23,0,merchant:Amazon
+Purchase at Walmart for entertainment. Date: 2025-08-21. Status: Cleared.,164.09,0,merchant:Walmart
+Purchase at Netflix for transport. Date: 2025-09-01. Status: Cleared.,92.44,0,merchant:Netflix
+Purchase at Amazon for groceries. Date: 2025-02-09. Status: Cleared.,88.39,0,merchant:Amazon
+Purchase at Starbucks for shopping. Date: 2025-02-14. Status: Cleared.,152.06,0,merchant:Starbucks
+Purchase at Uber for utilities. Date: 2025-08-27. Status: Cleared.,74.69,0,merchant:Uber
+Purchase at Walmart for shopping. Date: 2025-06-16. Status: Cleared.,233.77,0,merchant:Walmart
+Purchase at Whole Foods for entertainment. Date: 2025-07-06. Status: Cleared.,224.3,0,merchant:Whole Foods
+Purchase at Shell Station for entertainment. Date: 2025-12-02. Status: Cleared.,59.48,0,merchant:Shell Station
+Purchase at Whole Foods for shopping. Date: 2025-03-21. Status: Cleared.,269.74,0,merchant:Whole Foods
+Purchase at Netflix for utilities. Date: 2025-04-22. Status: Cleared.,179.46,0,merchant:Netflix
+Purchase at Target for shopping. Date: 2025-10-03. Status: Cleared.,93.59,0,merchant:Target
+Purchase at Amazon for groceries. Date: 2025-06-27. Status: Cleared.,242.46,0,merchant:Amazon
+Purchase at Amazon for utilities. Date: 2025-01-16. Status: Cleared.,172.8,0,merchant:Amazon
+Purchase at Starbucks for utilities. Date: 2025-10-12. Status: Cleared.,84.42,0,merchant:Starbucks
+Purchase at Netflix for dining. Date: 2025-01-14. Status: Cleared.,137.17,0,merchant:Netflix
+Purchase at Starbucks for shopping. Date: 2025-04-12. Status: Cleared.,235.1,0,merchant:Starbucks
+Purchase at Netflix for groceries. Date: 2025-11-11. Status: Cleared.,236.22,0,merchant:Netflix
+Purchase at Walmart for transport. Date: 2025-03-14. Status: Cleared.,32.58,0,merchant:Walmart
+Purchase at Starbucks for transport. Date: 2025-05-14. Status: Cleared.,240.59,0,merchant:Starbucks
+Purchase at Target for transport. Date: 2025-06-02. Status: Cleared.,35.25,0,merchant:Target
+Urgent wire transfer detected. Keyword: crypto. Destination: Cyprus. Amount: $16206.57. Risk: High.,16206.57,1,keyword:crypto
+Purchase at Target for utilities. Date: 2025-10-04. Status: Cleared.,251.33,0,merchant:Target
+Purchase at Starbucks for utilities. Date: 2025-12-02. Status: Cleared.,68.42,0,merchant:Starbucks
+Purchase at Uber for shopping. Date: 2025-02-14. Status: Cleared.,214.61,0,merchant:Uber
+Purchase at Netflix for dining. Date: 2025-01-18. Status: Cleared.,9.99,0,merchant:Netflix
+Purchase at Shell Station for entertainment. Date: 2025-03-13. Status: Cleared.,203.53,0,merchant:Shell Station
+Purchase at Uber for utilities. Date: 2025-10-15. Status: Cleared.,258.33,0,merchant:Uber
+Purchase at Starbucks for transport. Date: 2025-04-14. Status: Cleared.,40.4,0,merchant:Starbucks
+Purchase at Shell Station for shopping. Date: 2025-04-06. Status: Cleared.,211.14,0,merchant:Shell Station
+Purchase at Shell Station for dining. Date: 2025-07-10. Status: Cleared.,250.49,0,merchant:Shell Station
+Purchase at Starbucks for entertainment. Date: 2025-04-26. Status: Cleared.,204.09,0,merchant:Starbucks
+Purchase at Amazon for dining. Date: 2025-11-10. Status: Cleared.,124.05,0,merchant:Amazon
+Purchase at Netflix for shopping. Date: 2025-07-15. Status: Cleared.,47.32,0,merchant:Netflix
+Purchase at Walmart for shopping. Date: 2025-10-12. Status: Cleared.,52.82,0,merchant:Walmart
+Purchase at Uber for groceries. Date: 2025-06-30. Status: Cleared.,12.95,0,merchant:Uber
+Purchase at Walmart for utilities. Date: 2025-05-29. Status: Cleared.,271.45,0,merchant:Walmart
+Purchase at Walmart for utilities. Date: 2025-11-04. Status: Cleared.,206.46,0,merchant:Walmart
+Purchase at Shell Station for dining. Date: 2025-10-28. Status: Cleared.,182.71,0,merchant:Shell Station
+Purchase at Shell Station for shopping. Date: 2025-02-04. Status: Cleared.,245.53,0,merchant:Shell Station
+Purchase at Netflix for dining. Date: 2025-08-19. Status: Cleared.,158.16,0,merchant:Netflix
+Purchase at Amazon for utilities. Date: 2025-09-12. Status: Cleared.,59.47,0,merchant:Amazon
+Purchase at Starbucks for groceries. Date: 2025-05-24. Status: Cleared.,53.7,0,merchant:Starbucks
+Purchase at Walmart for utilities. Date: 2025-05-29. Status: Cleared.,254.1,0,merchant:Walmart
+Purchase at Uber for groceries. Date: 2025-03-27. Status: Cleared.,51.33,0,merchant:Uber
+Purchase at Whole Foods for dining. Date: 2025-03-31. Status: Cleared.,259.16,0,merchant:Whole Foods
+Purchase at Netflix for shopping. Date: 2025-04-11. Status: Cleared.,235.74,0,merchant:Netflix
+Purchase at Target for entertainment. Date: 2025-06-17. Status: Cleared.,31.52,0,merchant:Target
+Purchase at Walmart for transport. Date: 2025-06-20. Status: Cleared.,295.71,0,merchant:Walmart
+Purchase at Netflix for dining. Date: 2025-07-15. Status: Cleared.,11.34,0,merchant:Netflix
+Purchase at Walmart for entertainment. Date: 2025-03-24. Status: Cleared.,17.72,0,merchant:Walmart
+Purchase at Shell Station for transport. Date: 2025-05-31. Status: Cleared.,248.01,0,merchant:Shell Station
+Purchase at Amazon for entertainment. Date: 2025-08-25. Status: Cleared.,256.18,0,merchant:Amazon
+Purchase at Starbucks for groceries. Date: 2025-09-26. Status: Cleared.,25.68,0,merchant:Starbucks
+Purchase at Whole Foods for groceries. Date: 2025-11-01. Status: Cleared.,240.3,0,merchant:Whole Foods
+Purchase at Whole Foods for shopping. Date: 2025-05-24. Status: Cleared.,208.57,0,merchant:Whole Foods
+Purchase at Starbucks for transport. Date: 2025-04-03. Status: Cleared.,130.3,0,merchant:Starbucks
+Purchase at Whole Foods for entertainment. Date: 2025-07-12. Status: Cleared.,298.41,0,merchant:Whole Foods
+Urgent wire transfer detected. Keyword: offshore. Destination: Unknown. Amount: $39358.82. Risk: High.,39358.82,1,keyword:offshore
+Purchase at Uber for dining. Date: 2025-11-23. Status: Cleared.,204.36,0,merchant:Uber
+Purchase at Amazon for shopping. Date: 2025-02-18. Status: Cleared.,78.0,0,merchant:Amazon
+Purchase at Target for utilities. Date: 2025-05-08. Status: Cleared.,75.16,0,merchant:Target
+Purchase at Uber for dining. Date: 2025-09-29. Status: Cleared.,217.5,0,merchant:Uber
+Purchase at Target for entertainment. Date: 2025-06-18. Status: Cleared.,108.96,0,merchant:Target
+Purchase at Uber for entertainment. Date: 2025-05-31. Status: Cleared.,34.71,0,merchant:Uber
+Purchase at Whole Foods for entertainment. Date: 2025-02-05. Status: Cleared.,80.1,0,merchant:Whole Foods
+Purchase at Target for groceries. Date: 2025-07-27. Status: Cleared.,292.76,0,merchant:Target
+Purchase at Starbucks for utilities. Date: 2025-02-03. Status: Cleared.,74.02,0,merchant:Starbucks
+Purchase at Target for entertainment. Date: 2025-10-22. Status: Cleared.,220.09,0,merchant:Target
+Purchase at Walmart for dining. Date: 2025-09-04. Status: Cleared.,253.61,0,merchant:Walmart
+Purchase at Target for utilities. Date: 2025-05-02. Status: Cleared.,108.77,0,merchant:Target
+Purchase at Shell Station for dining. Date: 2025-01-20. Status: Cleared.,159.15,0,merchant:Shell Station
+Purchase at Target for utilities. Date: 2025-05-30. Status: Cleared.,191.21,0,merchant:Target
+Purchase at Uber for transport. Date: 2025-05-25. Status: Cleared.,68.98,0,merchant:Uber
+Purchase at Starbucks for transport. Date: 2025-12-01. Status: Cleared.,262.97,0,merchant:Starbucks
+Purchase at Walmart for transport. Date: 2025-04-30. Status: Cleared.,135.52,0,merchant:Walmart
+Purchase at Whole Foods for utilities. Date: 2025-11-09. Status: Cleared.,119.09,0,merchant:Whole Foods
+Purchase at Starbucks for transport. Date: 2025-06-19. Status: Cleared.,194.44,0,merchant:Starbucks
+Purchase at Netflix for transport. Date: 2025-07-18. Status: Cleared.,150.18,0,merchant:Netflix
+Purchase at Target for dining. Date: 2025-07-27. Status: Cleared.,5.34,0,merchant:Target
+Urgent wire transfer detected. Keyword: suspicious. Destination: Cayman Islands. Amount: $39868.53. Risk: High.,39868.53,1,keyword:suspicious
+Purchase at Uber for transport. Date: 2025-04-08. Status: Cleared.,156.53,0,merchant:Uber
+Purchase at Walmart for dining. Date: 2025-08-28. Status: Cleared.,38.49,0,merchant:Walmart
+Purchase at Netflix for dining. Date: 2025-02-06. Status: Cleared.,180.6,0,merchant:Netflix
+Purchase at Target for dining. Date: 2025-06-16. Status: Cleared.,228.53,0,merchant:Target
+Purchase at Uber for dining. Date: 2025-05-09. Status: Cleared.,223.79,0,merchant:Uber
+Purchase at Whole Foods for groceries. Date: 2025-08-07. Status: Cleared.,169.86,0,merchant:Whole Foods
+Purchase at Whole Foods for groceries. Date: 2025-10-11. Status: Cleared.,180.64,0,merchant:Whole Foods
+Purchase at Whole Foods for shopping. Date: 2025-08-07. Status: Cleared.,103.99,0,merchant:Whole Foods
+Purchase at Target for entertainment. Date: 2025-07-03. Status: Cleared.,31.93,0,merchant:Target
+Purchase at Amazon for transport. Date: 2025-03-22. Status: Cleared.,76.25,0,merchant:Amazon
+Purchase at Amazon for dining. Date: 2025-05-30. Status: Cleared.,177.09,0,merchant:Amazon
+Purchase at Target for shopping. Date: 2025-05-25. Status: Cleared.,114.43,0,merchant:Target
+Purchase at Uber for dining. Date: 2025-05-16. Status: Cleared.,212.71,0,merchant:Uber
+Purchase at Whole Foods for dining. Date: 2025-04-24. Status: Cleared.,243.45,0,merchant:Whole Foods
+Urgent wire transfer detected. Keyword: unverified. Destination: Cyprus. Amount: $48427.14. Risk: High.,48427.14,1,keyword:unverified
+Purchase at Walmart for dining. Date: 2025-10-02. Status: Cleared.,146.7,0,merchant:Walmart
+Purchase at Uber for groceries. Date: 2025-10-29. Status: Cleared.,201.97,0,merchant:Uber
+Purchase at Netflix for dining. Date: 2025-01-14. Status: Cleared.,177.76,0,merchant:Netflix
+Purchase at Amazon for transport. Date: 2025-01-11. Status: Cleared.,231.04,0,merchant:Amazon
+Purchase at Walmart for transport. Date: 2025-06-23. Status: Cleared.,111.68,0,merchant:Walmart
+Purchase at Walmart for transport. Date: 2025-03-02. Status: Cleared.,49.8,0,merchant:Walmart
+Urgent wire transfer detected. Keyword: shell company. Destination: Cayman Islands. Amount: $26496.41. Risk: High.,26496.41,1,keyword:shell company
+Purchase at Uber for transport. Date: 2025-11-07. Status: Cleared.,82.9,0,merchant:Uber
+Purchase at Uber for entertainment. Date: 2025-04-15. Status: Cleared.,208.98,0,merchant:Uber
+Purchase at Amazon for shopping. Date: 2025-02-25. Status: Cleared.,126.45,0,merchant:Amazon
+Purchase at Amazon for shopping. Date: 2025-04-22. Status: Cleared.,207.1,0,merchant:Amazon
+Purchase at Starbucks for groceries. Date: 2025-06-22. Status: Cleared.,46.83,0,merchant:Starbucks
+Purchase at Shell Station for shopping. Date: 2025-04-17. Status: Cleared.,171.75,0,merchant:Shell Station
+Purchase at Uber for shopping. Date: 2025-05-20. Status: Cleared.,27.42,0,merchant:Uber
+Purchase at Target for groceries. Date: 2025-07-09. Status: Cleared.,172.08,0,merchant:Target
+Purchase at Amazon for dining. Date: 2025-07-18. Status: Cleared.,49.6,0,merchant:Amazon
+Purchase at Target for transport. Date: 2025-02-22. Status: Cleared.,226.74,0,merchant:Target
+Purchase at Target for entertainment. Date: 2025-01-03. Status: Cleared.,78.6,0,merchant:Target
+Purchase at Walmart for entertainment. Date: 2025-07-04. Status: Cleared.,70.37,0,merchant:Walmart
+Purchase at Netflix for dining. Date: 2025-05-11. Status: Cleared.,92.0,0,merchant:Netflix
+Purchase at Target for shopping. Date: 2025-11-26. Status: Cleared.,93.97,0,merchant:Target
+Purchase at Whole Foods for dining. Date: 2025-06-12. Status: Cleared.,168.55,0,merchant:Whole Foods
+Purchase at Uber for groceries. Date: 2025-09-02. Status: Cleared.,125.67,0,merchant:Uber
+Purchase at Netflix for transport. Date: 2025-12-03. Status: Cleared.,243.65,0,merchant:Netflix
+Purchase at Shell Station for shopping. Date: 2025-07-11. Status: Cleared.,167.23,0,merchant:Shell Station
+Purchase at Shell Station for dining. Date: 2025-12-05. Status: Cleared.,277.34,0,merchant:Shell Station
+Purchase at Uber for groceries. Date: 2025-08-15. Status: Cleared.,146.61,0,merchant:Uber
+Purchase at Walmart for transport. Date: 2025-02-01. Status: Cleared.,153.44,0,merchant:Walmart
+Purchase at Uber for shopping. Date: 2025-06-08. Status: Cleared.,247.55,0,merchant:Uber
+Purchase at Target for transport. Date: 2025-07-30. Status: Cleared.,240.92,0,merchant:Target
+Purchase at Shell Station for dining. Date: 2025-08-04. Status: Cleared.,56.43,0,merchant:Shell Station
+Purchase at Whole Foods for dining. Date: 2025-09-27. Status: Cleared.,70.68,0,merchant:Whole Foods
+Purchase at Amazon for utilities. Date: 2025-05-23. Status: Cleared.,276.05,0,merchant:Amazon
+Purchase at Starbucks for utilities. Date: 2025-03-28. Status: Cleared.,197.67,0,merchant:Starbucks
+Purchase at Shell Station for groceries. Date: 2025-08-23. Status: Cleared.,122.93,0,merchant:Shell Station
+Purchase at Shell Station for shopping. Date: 2025-01-02. Status: Cleared.,179.83,0,merchant:Shell Station
+Purchase at Target for dining. Date: 2025-02-28. Status: Cleared.,87.5,0,merchant:Target
+Purchase at Shell Station for entertainment. Date: 2025-08-14. Status: Cleared.,120.36,0,merchant:Shell Station
+Purchase at Whole Foods for entertainment. Date: 2025-10-18. Status: Cleared.,261.02,0,merchant:Whole Foods
+Purchase at Uber for entertainment. Date: 2025-03-29. Status: Cleared.,158.75,0,merchant:Uber
+Purchase at Amazon for transport. Date: 2025-04-10. Status: Cleared.,266.99,0,merchant:Amazon
+Purchase at Netflix for utilities. Date: 2025-11-12. Status: Cleared.,189.68,0,merchant:Netflix
+Purchase at Starbucks for shopping. Date: 2025-02-13. Status: Cleared.,113.81,0,merchant:Starbucks
+Purchase at Starbucks for entertainment. Date: 2025-10-01. Status: Cleared.,181.07,0,merchant:Starbucks
+Purchase at Amazon for utilities. Date: 2025-06-11. Status: Cleared.,203.07,0,merchant:Amazon
+Purchase at Starbucks for groceries. Date: 2025-07-20. Status: Cleared.,299.95,0,merchant:Starbucks
+Purchase at Netflix for groceries. Date: 2025-10-10. Status: Cleared.,80.11,0,merchant:Netflix
+Purchase at Amazon for utilities. Date: 2025-10-07. Status: Cleared.,69.79,0,merchant:Amazon
+Purchase at Netflix for transport. Date: 2025-04-06. Status: Cleared.,90.01,0,merchant:Netflix
+Purchase at Shell Station for utilities. Date: 2025-01-20. Status: Cleared.,275.8,0,merchant:Shell Station
+Purchase at Amazon for groceries. Date: 2025-04-26. Status: Cleared.,70.91,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: suspicious. Destination: Unknown. Amount: $43686.24. Risk: High.,43686.24,1,keyword:suspicious
+Purchase at Target for dining. Date: 2025-11-21. Status: Cleared.,152.42,0,merchant:Target
+Purchase at Netflix for entertainment. Date: 2025-01-05. Status: Cleared.,281.11,0,merchant:Netflix
+Purchase at Starbucks for shopping. Date: 2025-01-13. Status: Cleared.,61.47,0,merchant:Starbucks
+Purchase at Target for utilities. Date: 2025-08-09. Status: Cleared.,28.16,0,merchant:Target
+Purchase at Shell Station for shopping. Date: 2025-12-03. Status: Cleared.,200.76,0,merchant:Shell Station
+Urgent wire transfer detected. Keyword: urgent. Destination: Unknown. Amount: $24203.14. Risk: High.,24203.14,1,keyword:urgent
+Purchase at Amazon for dining. Date: 2025-04-04. Status: Cleared.,45.5,0,merchant:Amazon
+Purchase at Walmart for transport. Date: 2025-01-10. Status: Cleared.,259.99,0,merchant:Walmart
+Purchase at Walmart for groceries. Date: 2025-07-07. Status: Cleared.,31.39,0,merchant:Walmart
+Purchase at Starbucks for entertainment. Date: 2025-06-14. Status: Cleared.,193.13,0,merchant:Starbucks
+Purchase at Amazon for shopping. Date: 2025-09-05. Status: Cleared.,147.08,0,merchant:Amazon
+Purchase at Shell Station for dining. Date: 2025-04-07. Status: Cleared.,55.39,0,merchant:Shell Station
+Purchase at Target for entertainment. Date: 2025-10-01. Status: Cleared.,127.55,0,merchant:Target
+Purchase at Uber for entertainment. Date: 2025-08-26. Status: Cleared.,269.98,0,merchant:Uber
+Purchase at Whole Foods for entertainment. Date: 2025-05-21. Status: Cleared.,33.46,0,merchant:Whole Foods
+Purchase at Walmart for utilities. Date: 2025-07-31. Status: Cleared.,293.48,0,merchant:Walmart
+Purchase at Starbucks for transport. Date: 2025-02-17. Status: Cleared.,13.04,0,merchant:Starbucks
+Purchase at Starbucks for shopping. Date: 2025-03-22. Status: Cleared.,51.7,0,merchant:Starbucks
+Purchase at Uber for groceries. Date: 2025-06-21. Status: Cleared.,45.14,0,merchant:Uber
+Purchase at Amazon for shopping. Date: 2025-01-23. Status: Cleared.,33.46,0,merchant:Amazon
+Purchase at Amazon for entertainment. Date: 2025-05-24. Status: Cleared.,156.48,0,merchant:Amazon
+Purchase at Target for groceries. Date: 2025-09-16. Status: Cleared.,199.74,0,merchant:Target
+Purchase at Target for transport. Date: 2025-02-06. Status: Cleared.,7.49,0,merchant:Target
+Purchase at Starbucks for dining. Date: 2025-07-25. Status: Cleared.,135.44,0,merchant:Starbucks
+Purchase at Netflix for dining. Date: 2025-10-03. Status: Cleared.,92.68,0,merchant:Netflix
+Purchase at Amazon for transport. Date: 2025-08-23. Status: Cleared.,52.78,0,merchant:Amazon
+Purchase at Starbucks for transport. Date: 2025-04-23. Status: Cleared.,128.26,0,merchant:Starbucks
+Purchase at Shell Station for dining. Date: 2025-02-12. Status: Cleared.,173.08,0,merchant:Shell Station
+Purchase at Starbucks for utilities. Date: 2025-10-13. Status: Cleared.,129.6,0,merchant:Starbucks
+Purchase at Target for entertainment. Date: 2025-04-07. Status: Cleared.,67.55,0,merchant:Target
+Purchase at Walmart for shopping. Date: 2025-07-22. Status: Cleared.,244.74,0,merchant:Walmart
+Purchase at Uber for shopping. Date: 2025-11-30. Status: Cleared.,151.32,0,merchant:Uber
+Purchase at Starbucks for transport. Date: 2025-07-27. Status: Cleared.,277.59,0,merchant:Starbucks
+Purchase at Amazon for dining. Date: 2025-03-10. Status: Cleared.,157.21,0,merchant:Amazon
+Purchase at Whole Foods for dining. Date: 2025-08-17. Status: Cleared.,187.62,0,merchant:Whole Foods
+Purchase at Amazon for dining. Date: 2025-07-31. Status: Cleared.,280.91,0,merchant:Amazon
+Purchase at Amazon for entertainment. Date: 2025-11-30. Status: Cleared.,191.29,0,merchant:Amazon
+Purchase at Netflix for entertainment. Date: 2025-12-05. Status: Cleared.,291.11,0,merchant:Netflix
+Purchase at Target for entertainment. Date: 2025-05-31. Status: Cleared.,69.59,0,merchant:Target
+Purchase at Whole Foods for transport. Date: 2025-11-17. Status: Cleared.,70.1,0,merchant:Whole Foods
+Purchase at Amazon for groceries. Date: 2025-01-15. Status: Cleared.,82.38,0,merchant:Amazon
+Purchase at Walmart for utilities. Date: 2025-08-02. Status: Cleared.,183.57,0,merchant:Walmart
+Purchase at Uber for dining. Date: 2025-05-07. Status: Cleared.,32.71,0,merchant:Uber
+Purchase at Target for utilities. Date: 2025-04-11. Status: Cleared.,13.95,0,merchant:Target
+Urgent wire transfer detected. Keyword: unverified. Destination: Cyprus. Amount: $9895.51. Risk: High.,9895.51,1,keyword:unverified
+Purchase at Amazon for dining. Date: 2025-06-18. Status: Cleared.,60.46,0,merchant:Amazon
+Purchase at Amazon for shopping. Date: 2025-11-01. Status: Cleared.,39.53,0,merchant:Amazon
+Purchase at Shell Station for utilities. Date: 2025-12-06. Status: Cleared.,133.99,0,merchant:Shell Station
+Purchase at Walmart for entertainment. Date: 2025-05-18. Status: Cleared.,95.46,0,merchant:Walmart
+Purchase at Netflix for groceries. Date: 2025-03-03. Status: Cleared.,131.99,0,merchant:Netflix
+Purchase at Shell Station for groceries. Date: 2025-05-20. Status: Cleared.,238.44,0,merchant:Shell Station
+Purchase at Netflix for transport. Date: 2025-09-29. Status: Cleared.,158.05,0,merchant:Netflix
+Purchase at Netflix for utilities. Date: 2025-10-09. Status: Cleared.,82.8,0,merchant:Netflix
+Purchase at Amazon for utilities. Date: 2025-10-02. Status: Cleared.,51.89,0,merchant:Amazon
+Purchase at Shell Station for dining. Date: 2025-09-15. Status: Cleared.,263.9,0,merchant:Shell Station
+Purchase at Whole Foods for entertainment. Date: 2025-07-20. Status: Cleared.,50.3,0,merchant:Whole Foods
+Purchase at Uber for groceries. Date: 2025-01-25. Status: Cleared.,113.28,0,merchant:Uber
+Purchase at Whole Foods for utilities. Date: 2025-03-01. Status: Cleared.,244.14,0,merchant:Whole Foods
+Purchase at Uber for groceries. Date: 2025-11-03. Status: Cleared.,243.76,0,merchant:Uber
+Purchase at Walmart for groceries. Date: 2025-11-01. Status: Cleared.,77.45,0,merchant:Walmart
+Purchase at Netflix for entertainment. Date: 2025-11-27. Status: Cleared.,80.7,0,merchant:Netflix
+Purchase at Shell Station for entertainment. Date: 2025-03-05. Status: Cleared.,114.22,0,merchant:Shell Station
+Purchase at Starbucks for entertainment. Date: 2025-04-23. Status: Cleared.,157.84,0,merchant:Starbucks
+Purchase at Starbucks for shopping. Date: 2025-03-16. Status: Cleared.,223.09,0,merchant:Starbucks
+Purchase at Shell Station for shopping. Date: 2025-06-15. Status: Cleared.,282.33,0,merchant:Shell Station
+Purchase at Starbucks for utilities. Date: 2025-08-17. Status: Cleared.,8.54,0,merchant:Starbucks
+Purchase at Shell Station for dining. Date: 2025-04-17. Status: Cleared.,298.89,0,merchant:Shell Station
+Purchase at Shell Station for utilities. Date: 2025-02-18. Status: Cleared.,159.59,0,merchant:Shell Station
+Purchase at Netflix for shopping. Date: 2025-05-02. Status: Cleared.,148.59,0,merchant:Netflix
+Purchase at Netflix for shopping. Date: 2025-08-04. Status: Cleared.,286.46,0,merchant:Netflix
+Purchase at Netflix for transport. Date: 2025-03-25. Status: Cleared.,176.02,0,merchant:Netflix
+Purchase at Shell Station for shopping. Date: 2025-06-19. Status: Cleared.,177.99,0,merchant:Shell Station
+Purchase at Amazon for utilities. Date: 2025-07-26. Status: Cleared.,130.51,0,merchant:Amazon
+Purchase at Whole Foods for entertainment. Date: 2025-11-13. Status: Cleared.,88.97,0,merchant:Whole Foods
+Purchase at Amazon for entertainment. Date: 2025-10-21. Status: Cleared.,229.08,0,merchant:Amazon
+Purchase at Walmart for entertainment. Date: 2025-02-02. Status: Cleared.,110.45,0,merchant:Walmart
+Purchase at Whole Foods for dining. Date: 2025-06-10. Status: Cleared.,165.29,0,merchant:Whole Foods
+Purchase at Netflix for transport. Date: 2025-06-16. Status: Cleared.,64.74,0,merchant:Netflix
+Purchase at Amazon for transport. Date: 2025-02-28. Status: Cleared.,192.75,0,merchant:Amazon
+Purchase at Shell Station for dining. Date: 2025-02-03. Status: Cleared.,246.96,0,merchant:Shell Station
+Purchase at Starbucks for groceries. Date: 2025-01-10. Status: Cleared.,155.45,0,merchant:Starbucks
+Purchase at Amazon for dining. Date: 2025-07-27. Status: Cleared.,207.53,0,merchant:Amazon
+Purchase at Target for dining. Date: 2025-07-05. Status: Cleared.,185.35,0,merchant:Target
+Purchase at Whole Foods for utilities. Date: 2025-04-29. Status: Cleared.,73.24,0,merchant:Whole Foods
+Purchase at Amazon for dining. Date: 2025-06-11. Status: Cleared.,20.8,0,merchant:Amazon
+Purchase at Netflix for groceries. Date: 2025-07-21. Status: Cleared.,74.85,0,merchant:Netflix
+Purchase at Starbucks for groceries. Date: 2025-08-15. Status: Cleared.,53.69,0,merchant:Starbucks
+Purchase at Whole Foods for groceries. Date: 2025-08-24. Status: Cleared.,89.33,0,merchant:Whole Foods
+Purchase at Netflix for entertainment. Date: 2025-07-03. Status: Cleared.,66.58,0,merchant:Netflix
+Purchase at Shell Station for dining. Date: 2025-09-25. Status: Cleared.,116.75,0,merchant:Shell Station
+Purchase at Starbucks for shopping. Date: 2025-10-09. Status: Cleared.,291.52,0,merchant:Starbucks
+Purchase at Starbucks for transport. Date: 2025-04-18. Status: Cleared.,212.73,0,merchant:Starbucks
+Purchase at Starbucks for shopping. Date: 2025-09-15. Status: Cleared.,291.41,0,merchant:Starbucks
+Purchase at Uber for dining. Date: 2025-04-27. Status: Cleared.,211.39,0,merchant:Uber
+Purchase at Amazon for groceries. Date: 2025-03-04. Status: Cleared.,260.95,0,merchant:Amazon
+Purchase at Whole Foods for utilities. Date: 2025-08-12. Status: Cleared.,8.48,0,merchant:Whole Foods
+Purchase at Amazon for dining. Date: 2025-11-03. Status: Cleared.,270.93,0,merchant:Amazon
+Purchase at Target for shopping. Date: 2025-04-24. Status: Cleared.,240.72,0,merchant:Target
+Purchase at Walmart for transport. Date: 2025-09-03. Status: Cleared.,17.61,0,merchant:Walmart
+Purchase at Starbucks for dining. Date: 2025-11-13. Status: Cleared.,114.02,0,merchant:Starbucks
+Purchase at Walmart for transport. Date: 2025-04-25. Status: Cleared.,293.51,0,merchant:Walmart
+Purchase at Uber for shopping. Date: 2025-10-09. Status: Cleared.,35.59,0,merchant:Uber
+Purchase at Whole Foods for shopping. Date: 2025-07-29. Status: Cleared.,236.08,0,merchant:Whole Foods
+Purchase at Walmart for utilities. Date: 2025-06-18. Status: Cleared.,238.6,0,merchant:Walmart
+Purchase at Netflix for utilities. Date: 2025-10-13. Status: Cleared.,294.67,0,merchant:Netflix
+Purchase at Amazon for shopping. Date: 2025-11-11. Status: Cleared.,102.99,0,merchant:Amazon
+Purchase at Starbucks for transport. Date: 2025-02-13. Status: Cleared.,266.51,0,merchant:Starbucks
+Purchase at Amazon for transport. Date: 2025-10-04. Status: Cleared.,113.65,0,merchant:Amazon
+Purchase at Amazon for dining. Date: 2025-09-27. Status: Cleared.,152.13,0,merchant:Amazon
+Purchase at Target for entertainment. Date: 2025-11-10. Status: Cleared.,260.33,0,merchant:Target
+Purchase at Walmart for entertainment. Date: 2025-09-18. Status: Cleared.,221.16,0,merchant:Walmart
+Purchase at Target for shopping. Date: 2025-01-07. Status: Cleared.,239.34,0,merchant:Target
+Purchase at Target for shopping. Date: 2025-02-21. Status: Cleared.,183.88,0,merchant:Target
+Purchase at Netflix for transport. Date: 2025-04-14. Status: Cleared.,84.13,0,merchant:Netflix
+Purchase at Whole Foods for entertainment. Date: 2025-09-14. Status: Cleared.,290.94,0,merchant:Whole Foods
+Purchase at Starbucks for entertainment. Date: 2025-08-14. Status: Cleared.,88.07,0,merchant:Starbucks
+Purchase at Uber for utilities. Date: 2025-02-11. Status: Cleared.,100.89,0,merchant:Uber
+Purchase at Netflix for dining. Date: 2025-05-27. Status: Cleared.,205.15,0,merchant:Netflix
+Purchase at Starbucks for entertainment. Date: 2025-04-12. Status: Cleared.,149.2,0,merchant:Starbucks
+Purchase at Target for shopping. Date: 2025-10-18. Status: Cleared.,97.71,0,merchant:Target
+Purchase at Starbucks for transport. Date: 2025-08-30. Status: Cleared.,239.71,0,merchant:Starbucks
+Purchase at Whole Foods for transport. Date: 2025-11-21. Status: Cleared.,116.17,0,merchant:Whole Foods
+Purchase at Shell Station for dining. Date: 2025-11-12. Status: Cleared.,105.48,0,merchant:Shell Station
+Purchase at Whole Foods for groceries. Date: 2025-03-19. Status: Cleared.,218.72,0,merchant:Whole Foods
+Purchase at Netflix for utilities. Date: 2025-03-27. Status: Cleared.,292.29,0,merchant:Netflix
+Purchase at Starbucks for dining. Date: 2025-04-19. Status: Cleared.,149.89,0,merchant:Starbucks
+Urgent wire transfer detected. Keyword: crypto. Destination: Cyprus. Amount: $25591.0. Risk: High.,25591.0,1,keyword:crypto
+Purchase at Netflix for dining. Date: 2025-10-10. Status: Cleared.,32.83,0,merchant:Netflix
+Purchase at Walmart for utilities. Date: 2025-01-29. Status: Cleared.,135.8,0,merchant:Walmart
+Purchase at Amazon for shopping. Date: 2025-10-20. Status: Cleared.,157.48,0,merchant:Amazon
+Purchase at Walmart for transport. Date: 2025-08-19. Status: Cleared.,106.06,0,merchant:Walmart
+Purchase at Target for dining. Date: 2025-07-10. Status: Cleared.,65.64,0,merchant:Target
+Purchase at Starbucks for shopping. Date: 2025-02-10. Status: Cleared.,127.6,0,merchant:Starbucks
+Purchase at Whole Foods for utilities. Date: 2025-04-20. Status: Cleared.,29.58,0,merchant:Whole Foods
+Urgent wire transfer detected. Keyword: shell company. Destination: Cyprus. Amount: $26130.99. Risk: High.,26130.99,1,keyword:shell company
+Purchase at Netflix for groceries. Date: 2025-07-01. Status: Cleared.,91.72,0,merchant:Netflix
+Purchase at Target for dining. Date: 2025-03-03. Status: Cleared.,235.02,0,merchant:Target
+Purchase at Amazon for utilities. Date: 2025-10-26. Status: Cleared.,98.24,0,merchant:Amazon
+Purchase at Uber for entertainment. Date: 2025-02-26. Status: Cleared.,132.88,0,merchant:Uber
+Urgent wire transfer detected. Keyword: offshore. Destination: Cyprus. Amount: $22573.56. Risk: High.,22573.56,1,keyword:offshore
+Purchase at Target for shopping. Date: 2025-03-16. Status: Cleared.,212.25,0,merchant:Target
+Purchase at Walmart for groceries. Date: 2025-02-26. Status: Cleared.,250.31,0,merchant:Walmart
+Purchase at Walmart for transport. Date: 2025-04-23. Status: Cleared.,236.36,0,merchant:Walmart
+Purchase at Walmart for utilities. Date: 2025-07-28. Status: Cleared.,19.27,0,merchant:Walmart
+Purchase at Netflix for entertainment. Date: 2025-06-24. Status: Cleared.,258.26,0,merchant:Netflix
+Purchase at Target for groceries. Date: 2025-10-26. Status: Cleared.,8.34,0,merchant:Target
+Purchase at Whole Foods for entertainment. Date: 2025-01-31. Status: Cleared.,265.33,0,merchant:Whole Foods
+Purchase at Starbucks for dining. Date: 2025-06-02. Status: Cleared.,46.74,0,merchant:Starbucks
+Purchase at Uber for shopping. Date: 2025-01-25. Status: Cleared.,39.19,0,merchant:Uber
+Purchase at Shell Station for dining. Date: 2025-04-12. Status: Cleared.,114.72,0,merchant:Shell Station
+Purchase at Walmart for groceries. Date: 2025-04-05. Status: Cleared.,111.07,0,merchant:Walmart
+Purchase at Shell Station for shopping. Date: 2025-10-31. Status: Cleared.,195.58,0,merchant:Shell Station
+Purchase at Uber for utilities. Date: 2025-05-16. Status: Cleared.,91.25,0,merchant:Uber
+Purchase at Shell Station for dining. Date: 2025-06-29. Status: Cleared.,147.76,0,merchant:Shell Station
+Purchase at Starbucks for shopping. Date: 2025-01-06. Status: Cleared.,211.61,0,merchant:Starbucks
+Purchase at Uber for entertainment. Date: 2025-09-10. Status: Cleared.,19.8,0,merchant:Uber
+Purchase at Amazon for utilities. Date: 2025-03-15. Status: Cleared.,27.48,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: offshore. Destination: Unknown. Amount: $24176.59. Risk: High.,24176.59,1,keyword:offshore
+Purchase at Starbucks for utilities. Date: 2025-06-28. Status: Cleared.,299.69,0,merchant:Starbucks
+Purchase at Walmart for shopping. Date: 2025-05-18. Status: Cleared.,290.42,0,merchant:Walmart
+Purchase at Whole Foods for shopping. Date: 2025-08-12. Status: Cleared.,180.56,0,merchant:Whole Foods
+Purchase at Target for dining. Date: 2025-05-13. Status: Cleared.,299.74,0,merchant:Target
+Purchase at Netflix for dining. Date: 2025-04-27. Status: Cleared.,209.22,0,merchant:Netflix
+Purchase at Amazon for groceries. Date: 2025-05-01. Status: Cleared.,251.05,0,merchant:Amazon
+Purchase at Shell Station for utilities. Date: 2025-01-28. Status: Cleared.,227.63,0,merchant:Shell Station
+Purchase at Target for transport. Date: 2025-07-18. Status: Cleared.,95.25,0,merchant:Target
+Purchase at Walmart for transport. Date: 2025-03-30. Status: Cleared.,243.14,0,merchant:Walmart
+Purchase at Whole Foods for utilities. Date: 2025-05-16. Status: Cleared.,240.3,0,merchant:Whole Foods
+Purchase at Netflix for groceries. Date: 2025-03-28. Status: Cleared.,95.1,0,merchant:Netflix
+Purchase at Shell Station for shopping. Date: 2025-08-06. Status: Cleared.,256.82,0,merchant:Shell Station
+Urgent wire transfer detected. Keyword: offshore. Destination: Cyprus. Amount: $14086.09. Risk: High.,14086.09,1,keyword:offshore
+Purchase at Uber for transport. Date: 2025-10-26. Status: Cleared.,73.68,0,merchant:Uber
+Purchase at Shell Station for shopping. Date: 2025-06-11. Status: Cleared.,40.89,0,merchant:Shell Station
+Purchase at Starbucks for shopping. Date: 2025-10-12. Status: Cleared.,37.11,0,merchant:Starbucks
+Purchase at Uber for groceries. Date: 2025-05-14. Status: Cleared.,257.26,0,merchant:Uber
+Purchase at Target for shopping. Date: 2025-09-07. Status: Cleared.,88.56,0,merchant:Target
+Purchase at Whole Foods for utilities. Date: 2025-06-21. Status: Cleared.,183.82,0,merchant:Whole Foods
+Purchase at Whole Foods for dining. Date: 2025-03-06. Status: Cleared.,127.65,0,merchant:Whole Foods
+Purchase at Walmart for entertainment. Date: 2025-02-23. Status: Cleared.,249.97,0,merchant:Walmart
+Purchase at Walmart for transport. Date: 2025-02-01. Status: Cleared.,207.26,0,merchant:Walmart
+Purchase at Uber for utilities. Date: 2025-07-18. Status: Cleared.,23.8,0,merchant:Uber
+Purchase at Walmart for utilities. Date: 2025-04-25. Status: Cleared.,171.16,0,merchant:Walmart
+Purchase at Shell Station for utilities. Date: 2025-05-27. Status: Cleared.,128.52,0,merchant:Shell Station
+Purchase at Whole Foods for dining. Date: 2025-09-10. Status: Cleared.,98.35,0,merchant:Whole Foods
+Purchase at Uber for shopping. Date: 2025-02-11. Status: Cleared.,193.02,0,merchant:Uber
+Urgent wire transfer detected. Keyword: crypto. Destination: Russia. Amount: $16936.74. Risk: High.,16936.74,1,keyword:crypto
+Purchase at Amazon for shopping. Date: 2025-08-19. Status: Cleared.,182.91,0,merchant:Amazon
+Purchase at Walmart for shopping. Date: 2025-11-14. Status: Cleared.,160.42,0,merchant:Walmart
+Purchase at Amazon for dining. Date: 2025-09-26. Status: Cleared.,288.49,0,merchant:Amazon
+Purchase at Target for transport. Date: 2025-09-16. Status: Cleared.,109.8,0,merchant:Target
+Purchase at Target for transport. Date: 2025-03-31. Status: Cleared.,278.87,0,merchant:Target
+Purchase at Amazon for shopping. Date: 2025-08-24. Status: Cleared.,130.07,0,merchant:Amazon
+Purchase at Target for groceries. Date: 2025-06-07. Status: Cleared.,17.71,0,merchant:Target
+Purchase at Starbucks for entertainment. Date: 2025-07-28. Status: Cleared.,94.06,0,merchant:Starbucks
+Purchase at Starbucks for shopping. Date: 2025-04-22. Status: Cleared.,120.91,0,merchant:Starbucks
+Purchase at Uber for dining. Date: 2025-06-23. Status: Cleared.,22.38,0,merchant:Uber
+Urgent wire transfer detected. Keyword: urgent. Destination: Russia. Amount: $40657.6. Risk: High.,40657.6,1,keyword:urgent
+Purchase at Whole Foods for entertainment. Date: 2025-12-03. Status: Cleared.,171.61,0,merchant:Whole Foods
+Purchase at Uber for utilities. Date: 2025-09-09. Status: Cleared.,69.54,0,merchant:Uber
+Purchase at Amazon for entertainment. Date: 2025-08-11. Status: Cleared.,289.32,0,merchant:Amazon
+Purchase at Starbucks for shopping. Date: 2025-01-30. Status: Cleared.,295.9,0,merchant:Starbucks
+Purchase at Amazon for entertainment. Date: 2025-06-10. Status: Cleared.,286.5,0,merchant:Amazon
+Purchase at Target for dining. Date: 2025-04-19. Status: Cleared.,68.78,0,merchant:Target
+Purchase at Target for utilities. Date: 2025-02-22. Status: Cleared.,167.49,0,merchant:Target
+Purchase at Target for groceries. Date: 2025-03-18. Status: Cleared.,189.28,0,merchant:Target
+Purchase at Starbucks for groceries. Date: 2025-05-20. Status: Cleared.,200.89,0,merchant:Starbucks
+Purchase at Target for utilities. Date: 2025-06-08. Status: Cleared.,135.21,0,merchant:Target
+Urgent wire transfer detected. Keyword: shell company. Destination: Russia. Amount: $36972.85. Risk: High.,36972.85,1,keyword:shell company
+Purchase at Whole Foods for groceries. Date: 2025-01-16. Status: Cleared.,193.36,0,merchant:Whole Foods
+Purchase at Whole Foods for dining. Date: 2025-11-23. Status: Cleared.,208.87,0,merchant:Whole Foods
+Purchase at Amazon for groceries. Date: 2025-06-08. Status: Cleared.,131.75,0,merchant:Amazon
+Purchase at Shell Station for dining. Date: 2025-08-13. Status: Cleared.,183.45,0,merchant:Shell Station
+Purchase at Uber for entertainment. Date: 2025-10-22. Status: Cleared.,156.55,0,merchant:Uber
+Purchase at Amazon for transport. Date: 2025-06-17. Status: Cleared.,51.57,0,merchant:Amazon
+Purchase at Uber for groceries. Date: 2025-05-03. Status: Cleared.,179.22,0,merchant:Uber
+Purchase at Walmart for groceries. Date: 2025-05-18. Status: Cleared.,45.17,0,merchant:Walmart
+Purchase at Target for dining. Date: 2025-09-26. Status: Cleared.,156.09,0,merchant:Target
+Purchase at Whole Foods for groceries. Date: 2025-08-03. Status: Cleared.,50.72,0,merchant:Whole Foods
+Purchase at Whole Foods for dining. Date: 2025-08-21. Status: Cleared.,42.45,0,merchant:Whole Foods
+Purchase at Whole Foods for dining. Date: 2025-09-10. Status: Cleared.,143.92,0,merchant:Whole Foods
+Purchase at Netflix for transport. Date: 2025-04-25. Status: Cleared.,286.47,0,merchant:Netflix
+Purchase at Uber for dining. Date: 2025-01-12. Status: Cleared.,25.89,0,merchant:Uber
+Purchase at Amazon for shopping. Date: 2025-01-24. Status: Cleared.,294.71,0,merchant:Amazon
+Purchase at Shell Station for dining. Date: 2025-05-07. Status: Cleared.,175.85,0,merchant:Shell Station
+Purchase at Starbucks for groceries. Date: 2025-06-22. Status: Cleared.,55.98,0,merchant:Starbucks
+Purchase at Whole Foods for transport. Date: 2025-05-15. Status: Cleared.,258.07,0,merchant:Whole Foods
+Purchase at Shell Station for dining. Date: 2025-09-04. Status: Cleared.,124.5,0,merchant:Shell Station
+Purchase at Amazon for transport. Date: 2025-08-08. Status: Cleared.,50.57,0,merchant:Amazon
+Purchase at Whole Foods for shopping. Date: 2025-04-22. Status: Cleared.,5.26,0,merchant:Whole Foods
+Purchase at Shell Station for dining. Date: 2025-10-06. Status: Cleared.,177.2,0,merchant:Shell Station
+Purchase at Whole Foods for transport. Date: 2025-05-20. Status: Cleared.,259.61,0,merchant:Whole Foods
+Purchase at Amazon for transport. Date: 2025-11-28. Status: Cleared.,267.63,0,merchant:Amazon
+Purchase at Amazon for groceries. Date: 2025-10-29. Status: Cleared.,79.18,0,merchant:Amazon
+Purchase at Whole Foods for shopping. Date: 2025-02-23. Status: Cleared.,67.42,0,merchant:Whole Foods
+Urgent wire transfer detected. Keyword: offshore. Destination: Cayman Islands. Amount: $18363.12. Risk: High.,18363.12,1,keyword:offshore
+Purchase at Uber for groceries. Date: 2025-10-20. Status: Cleared.,177.56,0,merchant:Uber
+Purchase at Shell Station for entertainment. Date: 2025-07-10. Status: Cleared.,203.28,0,merchant:Shell Station
+Purchase at Starbucks for entertainment. Date: 2025-07-16. Status: Cleared.,242.86,0,merchant:Starbucks
+Purchase at Netflix for shopping. Date: 2025-10-02. Status: Cleared.,19.45,0,merchant:Netflix
+Urgent wire transfer detected. Keyword: gift card. Destination: Cyprus. Amount: $22527.56. Risk: High.,22527.56,1,keyword:gift card
+Purchase at Starbucks for dining. Date: 2025-06-05. Status: Cleared.,17.87,0,merchant:Starbucks
+Purchase at Uber for groceries. Date: 2025-01-26. Status: Cleared.,100.38,0,merchant:Uber
+Purchase at Uber for groceries. Date: 2025-06-23. Status: Cleared.,82.33,0,merchant:Uber
+Purchase at Shell Station for transport. Date: 2025-05-16. Status: Cleared.,236.24,0,merchant:Shell Station
+Purchase at Amazon for utilities. Date: 2025-10-03. Status: Cleared.,119.38,0,merchant:Amazon
+Purchase at Shell Station for dining. Date: 2025-02-12. Status: Cleared.,294.32,0,merchant:Shell Station
+Purchase at Uber for utilities. Date: 2025-03-16. Status: Cleared.,22.9,0,merchant:Uber
+Purchase at Shell Station for utilities. Date: 2025-11-09. Status: Cleared.,61.63,0,merchant:Shell Station
+Purchase at Amazon for shopping. Date: 2025-02-10. Status: Cleared.,36.62,0,merchant:Amazon
+Purchase at Uber for groceries. Date: 2025-10-07. Status: Cleared.,189.62,0,merchant:Uber
+Purchase at Amazon for entertainment. Date: 2025-09-20. Status: Cleared.,105.56,0,merchant:Amazon
+Purchase at Netflix for entertainment. Date: 2025-09-22. Status: Cleared.,158.02,0,merchant:Netflix
+Purchase at Walmart for shopping. Date: 2025-02-24. Status: Cleared.,80.25,0,merchant:Walmart
+Purchase at Whole Foods for groceries. Date: 2025-04-07. Status: Cleared.,73.49,0,merchant:Whole Foods
+Purchase at Target for shopping. Date: 2025-07-30. Status: Cleared.,218.97,0,merchant:Target
+Purchase at Walmart for utilities. Date: 2025-01-04. Status: Cleared.,36.38,0,merchant:Walmart
+Purchase at Uber for dining. Date: 2025-01-27. Status: Cleared.,246.02,0,merchant:Uber
+Purchase at Amazon for transport. Date: 2025-01-13. Status: Cleared.,78.67,0,merchant:Amazon
+Purchase at Target for entertainment. Date: 2025-08-03. Status: Cleared.,63.88,0,merchant:Target
+Purchase at Uber for groceries. Date: 2025-08-09. Status: Cleared.,227.26,0,merchant:Uber
+Purchase at Uber for utilities. Date: 2025-12-06. Status: Cleared.,223.89,0,merchant:Uber
+Purchase at Whole Foods for shopping. Date: 2025-06-20. Status: Cleared.,13.96,0,merchant:Whole Foods
+Purchase at Walmart for entertainment. Date: 2025-04-26. Status: Cleared.,249.65,0,merchant:Walmart
+Purchase at Target for shopping. Date: 2025-09-11. Status: Cleared.,44.49,0,merchant:Target
+Purchase at Shell Station for transport. Date: 2025-10-25. Status: Cleared.,111.22,0,merchant:Shell Station
+Purchase at Walmart for shopping. Date: 2025-04-24. Status: Cleared.,222.21,0,merchant:Walmart
+Purchase at Walmart for transport. Date: 2025-06-27. Status: Cleared.,55.58,0,merchant:Walmart
+Purchase at Starbucks for transport. Date: 2025-06-25. Status: Cleared.,102.9,0,merchant:Starbucks
+Purchase at Target for entertainment. Date: 2025-06-27. Status: Cleared.,99.94,0,merchant:Target
+Purchase at Amazon for dining. Date: 2025-07-11. Status: Cleared.,271.29,0,merchant:Amazon
+Purchase at Shell Station for utilities. Date: 2025-01-25. Status: Cleared.,158.7,0,merchant:Shell Station
+Purchase at Target for dining. Date: 2025-04-27. Status: Cleared.,146.19,0,merchant:Target
+Purchase at Target for entertainment. Date: 2025-01-30. Status: Cleared.,92.33,0,merchant:Target
+Purchase at Netflix for transport. Date: 2025-11-11. Status: Cleared.,162.83,0,merchant:Netflix
+Urgent wire transfer detected. Keyword: suspicious. Destination: Cayman Islands. Amount: $19366.1. Risk: High.,19366.1,1,keyword:suspicious
+Purchase at Walmart for groceries. Date: 2025-09-23. Status: Cleared.,170.19,0,merchant:Walmart
+Purchase at Starbucks for transport. Date: 2025-10-23. Status: Cleared.,127.86,0,merchant:Starbucks
+Purchase at Netflix for entertainment. Date: 2025-11-15. Status: Cleared.,150.92,0,merchant:Netflix
+Purchase at Uber for entertainment. Date: 2025-05-02. Status: Cleared.,75.38,0,merchant:Uber
+Purchase at Walmart for groceries. Date: 2025-11-20. Status: Cleared.,128.46,0,merchant:Walmart
+Purchase at Shell Station for transport. Date: 2025-04-01. Status: Cleared.,67.35,0,merchant:Shell Station
+Purchase at Starbucks for groceries. Date: 2025-06-22. Status: Cleared.,114.41,0,merchant:Starbucks
+Purchase at Netflix for utilities. Date: 2025-09-09. Status: Cleared.,241.77,0,merchant:Netflix
+Purchase at Netflix for shopping. Date: 2025-09-05. Status: Cleared.,170.57,0,merchant:Netflix
+Purchase at Walmart for transport. Date: 2025-08-19. Status: Cleared.,78.32,0,merchant:Walmart
+Purchase at Starbucks for shopping. Date: 2025-02-16. Status: Cleared.,36.71,0,merchant:Starbucks
+Purchase at Shell Station for utilities. Date: 2025-01-19. Status: Cleared.,44.39,0,merchant:Shell Station
+Purchase at Netflix for utilities. Date: 2025-10-06. Status: Cleared.,60.12,0,merchant:Netflix
+Purchase at Shell Station for transport. Date: 2025-08-12. Status: Cleared.,262.99,0,merchant:Shell Station
+Purchase at Walmart for entertainment. Date: 2025-11-13. Status: Cleared.,273.9,0,merchant:Walmart
+Purchase at Amazon for transport. Date: 2025-10-16. Status: Cleared.,75.2,0,merchant:Amazon
+Purchase at Target for utilities. Date: 2025-01-06. Status: Cleared.,284.52,0,merchant:Target
+Purchase at Target for transport. Date: 2025-01-08. Status: Cleared.,281.99,0,merchant:Target
+Purchase at Walmart for entertainment. Date: 2025-02-12. Status: Cleared.,161.44,0,merchant:Walmart
+Purchase at Shell Station for transport. Date: 2025-01-21. Status: Cleared.,21.13,0,merchant:Shell Station
+Purchase at Netflix for transport. Date: 2025-05-25. Status: Cleared.,122.72,0,merchant:Netflix
+Urgent wire transfer detected. Keyword: gift card. Destination: Cayman Islands. Amount: $39103.05. Risk: High.,39103.05,1,keyword:gift card
+Purchase at Amazon for shopping. Date: 2025-10-11. Status: Cleared.,209.67,0,merchant:Amazon
+Purchase at Whole Foods for entertainment. Date: 2025-01-03. Status: Cleared.,164.76,0,merchant:Whole Foods
+Purchase at Whole Foods for groceries. Date: 2025-05-04. Status: Cleared.,35.99,0,merchant:Whole Foods
+Purchase at Starbucks for entertainment. Date: 2025-09-07. Status: Cleared.,182.59,0,merchant:Starbucks
+Purchase at Shell Station for utilities. Date: 2025-08-30. Status: Cleared.,117.82,0,merchant:Shell Station
+Purchase at Uber for dining. Date: 2025-08-26. Status: Cleared.,281.86,0,merchant:Uber
+Purchase at Starbucks for entertainment. Date: 2025-08-25. Status: Cleared.,191.96,0,merchant:Starbucks
+Purchase at Shell Station for entertainment. Date: 2025-06-28. Status: Cleared.,67.52,0,merchant:Shell Station
+Purchase at Shell Station for utilities. Date: 2025-02-22. Status: Cleared.,202.3,0,merchant:Shell Station
+Purchase at Target for entertainment. Date: 2025-01-08. Status: Cleared.,135.94,0,merchant:Target
+Purchase at Amazon for groceries. Date: 2025-10-16. Status: Cleared.,270.01,0,merchant:Amazon
+Purchase at Shell Station for dining. Date: 2025-01-10. Status: Cleared.,50.84,0,merchant:Shell Station
+Purchase at Shell Station for utilities. Date: 2025-06-03. Status: Cleared.,175.82,0,merchant:Shell Station
+Purchase at Netflix for transport. Date: 2025-05-26. Status: Cleared.,80.04,0,merchant:Netflix
+Purchase at Uber for transport. Date: 2025-10-12. Status: Cleared.,155.42,0,merchant:Uber
+Purchase at Amazon for dining. Date: 2025-04-25. Status: Cleared.,81.28,0,merchant:Amazon
+Purchase at Netflix for utilities. Date: 2025-04-25. Status: Cleared.,15.27,0,merchant:Netflix
+Purchase at Amazon for entertainment. Date: 2025-11-06. Status: Cleared.,121.22,0,merchant:Amazon
+Purchase at Starbucks for entertainment. Date: 2025-05-06. Status: Cleared.,125.27,0,merchant:Starbucks
+Purchase at Walmart for transport. Date: 2025-03-17. Status: Cleared.,259.78,0,merchant:Walmart
+Purchase at Target for shopping. Date: 2025-11-14. Status: Cleared.,190.1,0,merchant:Target
+Purchase at Target for shopping. Date: 2025-06-20. Status: Cleared.,71.43,0,merchant:Target
+Urgent wire transfer detected. Keyword: suspicious. Destination: Russia. Amount: $45199.03. Risk: High.,45199.03,1,keyword:suspicious
+Purchase at Shell Station for dining. Date: 2025-04-25. Status: Cleared.,253.26,0,merchant:Shell Station
+Purchase at Netflix for transport. Date: 2025-11-24. Status: Cleared.,83.53,0,merchant:Netflix
+Purchase at Netflix for entertainment. Date: 2025-09-23. Status: Cleared.,224.03,0,merchant:Netflix
+Purchase at Whole Foods for utilities. Date: 2025-06-18. Status: Cleared.,230.22,0,merchant:Whole Foods
+Purchase at Amazon for transport. Date: 2025-08-30. Status: Cleared.,7.98,0,merchant:Amazon
+Purchase at Walmart for dining. Date: 2025-09-11. Status: Cleared.,13.53,0,merchant:Walmart
+Purchase at Amazon for transport. Date: 2025-01-01. Status: Cleared.,209.89,0,merchant:Amazon
+Purchase at Target for shopping. Date: 2025-07-23. Status: Cleared.,185.23,0,merchant:Target
+Purchase at Walmart for groceries. Date: 2025-04-24. Status: Cleared.,234.24,0,merchant:Walmart
+Purchase at Amazon for entertainment. Date: 2025-05-05. Status: Cleared.,164.51,0,merchant:Amazon
+Purchase at Uber for groceries. Date: 2025-05-14. Status: Cleared.,251.04,0,merchant:Uber
+Purchase at Whole Foods for groceries. Date: 2025-08-19. Status: Cleared.,187.17,0,merchant:Whole Foods
+Purchase at Amazon for dining. Date: 2025-09-03. Status: Cleared.,201.02,0,merchant:Amazon
+Purchase at Walmart for groceries. Date: 2025-07-15. Status: Cleared.,43.83,0,merchant:Walmart
+Purchase at Target for transport. Date: 2025-08-25. Status: Cleared.,203.07,0,merchant:Target
+Purchase at Netflix for dining. Date: 2025-01-04. Status: Cleared.,266.87,0,merchant:Netflix
+Purchase at Walmart for shopping. Date: 2025-06-06. Status: Cleared.,22.57,0,merchant:Walmart
+Purchase at Walmart for groceries. Date: 2025-05-01. Status: Cleared.,228.15,0,merchant:Walmart
+Purchase at Amazon for shopping. Date: 2025-09-09. Status: Cleared.,182.9,0,merchant:Amazon
+Purchase at Uber for utilities. Date: 2025-05-28. Status: Cleared.,74.53,0,merchant:Uber
+Purchase at Amazon for shopping. Date: 2025-10-20. Status: Cleared.,211.03,0,merchant:Amazon
+Purchase at Target for entertainment. Date: 2025-04-03. Status: Cleared.,66.68,0,merchant:Target
+Purchase at Shell Station for utilities. Date: 2025-04-05. Status: Cleared.,70.09,0,merchant:Shell Station
+Purchase at Shell Station for utilities. Date: 2025-01-01. Status: Cleared.,291.91,0,merchant:Shell Station
+Purchase at Whole Foods for shopping. Date: 2025-09-08. Status: Cleared.,112.85,0,merchant:Whole Foods
+Purchase at Walmart for groceries. Date: 2025-05-18. Status: Cleared.,167.87,0,merchant:Walmart
+Purchase at Target for shopping. Date: 2025-11-23. Status: Cleared.,278.34,0,merchant:Target
+Purchase at Target for shopping. Date: 2025-09-09. Status: Cleared.,218.01,0,merchant:Target
+Purchase at Netflix for entertainment. Date: 2025-09-04. Status: Cleared.,155.5,0,merchant:Netflix
+Purchase at Uber for utilities. Date: 2025-10-06. Status: Cleared.,43.03,0,merchant:Uber
+Purchase at Uber for entertainment. Date: 2025-06-05. Status: Cleared.,184.38,0,merchant:Uber
+Urgent wire transfer detected. Keyword: offshore. Destination: Russia. Amount: $20613.34. Risk: High.,20613.34,1,keyword:offshore
+Purchase at Whole Foods for transport. Date: 2025-07-19. Status: Cleared.,290.09,0,merchant:Whole Foods
+Purchase at Amazon for transport. Date: 2025-08-02. Status: Cleared.,167.56,0,merchant:Amazon
+Purchase at Whole Foods for shopping. Date: 2025-08-11. Status: Cleared.,193.86,0,merchant:Whole Foods
+Purchase at Target for utilities. Date: 2025-08-04. Status: Cleared.,268.23,0,merchant:Target
+Purchase at Walmart for shopping. Date: 2025-02-08. Status: Cleared.,139.51,0,merchant:Walmart
+Purchase at Shell Station for entertainment. Date: 2025-10-26. Status: Cleared.,160.0,0,merchant:Shell Station
+Purchase at Target for dining. Date: 2025-11-18. Status: Cleared.,120.63,0,merchant:Target
+Purchase at Walmart for utilities. Date: 2025-06-15. Status: Cleared.,244.73,0,merchant:Walmart
+Purchase at Walmart for groceries. Date: 2025-06-10. Status: Cleared.,180.58,0,merchant:Walmart
+Purchase at Amazon for shopping. Date: 2025-02-20. Status: Cleared.,165.65,0,merchant:Amazon
+Purchase at Shell Station for entertainment. Date: 2025-08-23. Status: Cleared.,56.87,0,merchant:Shell Station
+Purchase at Walmart for shopping. Date: 2025-07-12. Status: Cleared.,231.34,0,merchant:Walmart
+Purchase at Uber for transport. Date: 2025-11-12. Status: Cleared.,173.54,0,merchant:Uber
+Purchase at Starbucks for groceries. Date: 2025-10-13. Status: Cleared.,102.86,0,merchant:Starbucks
+Purchase at Shell Station for shopping. Date: 2025-03-20. Status: Cleared.,8.24,0,merchant:Shell Station
+Purchase at Starbucks for transport. Date: 2025-01-27. Status: Cleared.,299.03,0,merchant:Starbucks
+Purchase at Netflix for transport. Date: 2025-01-27. Status: Cleared.,228.74,0,merchant:Netflix
+Purchase at Uber for shopping. Date: 2025-05-01. Status: Cleared.,14.99,0,merchant:Uber
+Purchase at Amazon for shopping. Date: 2025-08-20. Status: Cleared.,171.11,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: shell company. Destination: Panama. Amount: $29225.14. Risk: High.,29225.14,1,keyword:shell company
+Purchase at Netflix for transport. Date: 2025-11-08. Status: Cleared.,241.96,0,merchant:Netflix
+Purchase at Netflix for utilities. Date: 2025-09-15. Status: Cleared.,295.96,0,merchant:Netflix
+Purchase at Whole Foods for dining. Date: 2025-04-02. Status: Cleared.,141.99,0,merchant:Whole Foods
+Purchase at Target for utilities. Date: 2025-05-03. Status: Cleared.,257.26,0,merchant:Target
+Purchase at Shell Station for entertainment. Date: 2025-07-23. Status: Cleared.,81.02,0,merchant:Shell Station
+Purchase at Walmart for utilities. Date: 2025-10-02. Status: Cleared.,31.3,0,merchant:Walmart
+Purchase at Amazon for shopping. Date: 2025-04-04. Status: Cleared.,209.39,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: suspicious. Destination: Unknown. Amount: $2687.82. Risk: High.,2687.82,1,keyword:suspicious
+Purchase at Shell Station for groceries. Date: 2025-01-08. Status: Cleared.,250.1,0,merchant:Shell Station
+Purchase at Starbucks for entertainment. Date: 2025-09-07. Status: Cleared.,291.86,0,merchant:Starbucks
+Purchase at Amazon for entertainment. Date: 2025-01-11. Status: Cleared.,11.75,0,merchant:Amazon
+Purchase at Starbucks for entertainment. Date: 2025-02-24. Status: Cleared.,140.67,0,merchant:Starbucks
+Purchase at Starbucks for shopping. Date: 2025-10-05. Status: Cleared.,69.29,0,merchant:Starbucks
+Purchase at Shell Station for entertainment. Date: 2025-08-05. Status: Cleared.,168.4,0,merchant:Shell Station
+Purchase at Shell Station for utilities. Date: 2025-04-21. Status: Cleared.,70.54,0,merchant:Shell Station
+Purchase at Whole Foods for utilities. Date: 2025-04-17. Status: Cleared.,14.86,0,merchant:Whole Foods
+Purchase at Uber for utilities. Date: 2025-10-07. Status: Cleared.,13.45,0,merchant:Uber
+Purchase at Uber for dining. Date: 2025-10-03. Status: Cleared.,18.02,0,merchant:Uber
+Purchase at Target for shopping. Date: 2025-04-13. Status: Cleared.,55.22,0,merchant:Target
+Purchase at Target for shopping. Date: 2025-09-28. Status: Cleared.,146.25,0,merchant:Target
+Urgent wire transfer detected. Keyword: suspicious. Destination: Russia. Amount: $48791.7. Risk: High.,48791.7,1,keyword:suspicious
+Purchase at Shell Station for entertainment. Date: 2025-02-24. Status: Cleared.,12.69,0,merchant:Shell Station
+Purchase at Walmart for transport. Date: 2025-05-20. Status: Cleared.,76.08,0,merchant:Walmart
+Purchase at Uber for entertainment. Date: 2025-10-29. Status: Cleared.,122.3,0,merchant:Uber
+Purchase at Shell Station for shopping. Date: 2025-03-29. Status: Cleared.,26.14,0,merchant:Shell Station
+Purchase at Uber for groceries. Date: 2025-01-14. Status: Cleared.,197.69,0,merchant:Uber
+Purchase at Target for entertainment. Date: 2025-11-11. Status: Cleared.,154.04,0,merchant:Target
+Purchase at Starbucks for utilities. Date: 2025-04-03. Status: Cleared.,128.7,0,merchant:Starbucks
+Purchase at Amazon for dining. Date: 2025-08-03. Status: Cleared.,171.1,0,merchant:Amazon
+Purchase at Target for utilities. Date: 2025-07-28. Status: Cleared.,190.55,0,merchant:Target
+Purchase at Amazon for dining. Date: 2025-10-17. Status: Cleared.,253.82,0,merchant:Amazon
+Purchase at Whole Foods for shopping. Date: 2025-11-03. Status: Cleared.,185.22,0,merchant:Whole Foods
+Purchase at Shell Station for entertainment. Date: 2025-03-15. Status: Cleared.,203.52,0,merchant:Shell Station
+Purchase at Netflix for shopping. Date: 2025-02-21. Status: Cleared.,183.43,0,merchant:Netflix
+Urgent wire transfer detected. Keyword: gift card. Destination: Unknown. Amount: $5142.66. Risk: High.,5142.66,1,keyword:gift card
+Purchase at Walmart for dining. Date: 2025-11-21. Status: Cleared.,111.12,0,merchant:Walmart
+Purchase at Netflix for dining. Date: 2025-07-07. Status: Cleared.,26.74,0,merchant:Netflix
+Purchase at Target for shopping. Date: 2025-02-26. Status: Cleared.,285.17,0,merchant:Target
+Purchase at Starbucks for transport. Date: 2025-11-10. Status: Cleared.,180.76,0,merchant:Starbucks
+Purchase at Netflix for dining. Date: 2025-10-02. Status: Cleared.,163.62,0,merchant:Netflix
+Purchase at Starbucks for utilities. Date: 2025-10-26. Status: Cleared.,211.87,0,merchant:Starbucks
+Purchase at Starbucks for groceries. Date: 2025-06-27. Status: Cleared.,260.98,0,merchant:Starbucks
+Urgent wire transfer detected. Keyword: suspicious. Destination: Unknown. Amount: $7391.37. Risk: High.,7391.37,1,keyword:suspicious
+Purchase at Netflix for shopping. Date: 2025-06-14. Status: Cleared.,105.35,0,merchant:Netflix
+Purchase at Netflix for dining. Date: 2025-02-07. Status: Cleared.,291.24,0,merchant:Netflix
+Purchase at Shell Station for shopping. Date: 2025-02-18. Status: Cleared.,14.3,0,merchant:Shell Station
+Purchase at Whole Foods for transport. Date: 2025-11-10. Status: Cleared.,225.67,0,merchant:Whole Foods
+Purchase at Shell Station for utilities. Date: 2025-11-30. Status: Cleared.,250.33,0,merchant:Shell Station
+Purchase at Whole Foods for dining. Date: 2025-03-05. Status: Cleared.,52.54,0,merchant:Whole Foods
+Purchase at Uber for transport. Date: 2025-07-08. Status: Cleared.,146.86,0,merchant:Uber
+Purchase at Starbucks for entertainment. Date: 2025-07-09. Status: Cleared.,275.17,0,merchant:Starbucks
+Purchase at Starbucks for transport. Date: 2025-07-09. Status: Cleared.,5.27,0,merchant:Starbucks
+Purchase at Netflix for entertainment. Date: 2025-06-21. Status: Cleared.,154.83,0,merchant:Netflix
+Purchase at Amazon for dining. Date: 2025-03-17. Status: Cleared.,57.56,0,merchant:Amazon
+Purchase at Amazon for utilities. Date: 2025-03-28. Status: Cleared.,191.54,0,merchant:Amazon
+Purchase at Walmart for shopping. Date: 2025-07-15. Status: Cleared.,34.09,0,merchant:Walmart
+Purchase at Uber for groceries. Date: 2025-01-30. Status: Cleared.,211.16,0,merchant:Uber
+Purchase at Walmart for dining. Date: 2025-07-16. Status: Cleared.,299.96,0,merchant:Walmart
+Purchase at Amazon for dining. Date: 2025-06-19. Status: Cleared.,279.57,0,merchant:Amazon
+Purchase at Uber for shopping. Date: 2025-04-06. Status: Cleared.,174.4,0,merchant:Uber
+Purchase at Uber for entertainment. Date: 2025-05-06. Status: Cleared.,124.92,0,merchant:Uber
+Purchase at Whole Foods for transport. Date: 2025-01-21. Status: Cleared.,177.79,0,merchant:Whole Foods
+Purchase at Netflix for utilities. Date: 2025-08-28. Status: Cleared.,95.8,0,merchant:Netflix
+Purchase at Amazon for dining. Date: 2025-11-13. Status: Cleared.,194.07,0,merchant:Amazon
+Purchase at Uber for utilities. Date: 2025-03-16. Status: Cleared.,127.87,0,merchant:Uber
+Purchase at Target for transport. Date: 2025-03-27. Status: Cleared.,269.95,0,merchant:Target
+Purchase at Whole Foods for groceries. Date: 2025-09-19. Status: Cleared.,259.46,0,merchant:Whole Foods
+Purchase at Target for utilities. Date: 2025-06-25. Status: Cleared.,8.0,0,merchant:Target
+Purchase at Starbucks for transport. Date: 2025-10-19. Status: Cleared.,93.35,0,merchant:Starbucks
+Purchase at Shell Station for groceries. Date: 2025-06-25. Status: Cleared.,270.0,0,merchant:Shell Station
+Purchase at Walmart for dining. Date: 2025-01-03. Status: Cleared.,135.7,0,merchant:Walmart
+Purchase at Starbucks for dining. Date: 2025-08-28. Status: Cleared.,155.94,0,merchant:Starbucks
+Purchase at Starbucks for utilities. Date: 2025-10-12. Status: Cleared.,167.89,0,merchant:Starbucks
+Purchase at Shell Station for groceries. Date: 2025-09-16. Status: Cleared.,209.29,0,merchant:Shell Station
+Purchase at Starbucks for utilities. Date: 2025-11-01. Status: Cleared.,161.54,0,merchant:Starbucks
+Purchase at Uber for shopping. Date: 2025-12-01. Status: Cleared.,197.71,0,merchant:Uber
+Purchase at Amazon for entertainment. Date: 2025-11-24. Status: Cleared.,136.03,0,merchant:Amazon
+Purchase at Netflix for utilities. Date: 2025-07-07. Status: Cleared.,238.77,0,merchant:Netflix
+Purchase at Starbucks for groceries. Date: 2025-07-28. Status: Cleared.,154.5,0,merchant:Starbucks
+Purchase at Target for dining. Date: 2025-10-30. Status: Cleared.,36.66,0,merchant:Target
+Purchase at Netflix for shopping. Date: 2025-01-17. Status: Cleared.,274.33,0,merchant:Netflix
+Urgent wire transfer detected. Keyword: unverified. Destination: Russia. Amount: $48711.52. Risk: High.,48711.52,1,keyword:unverified
+Purchase at Netflix for transport. Date: 2025-09-24. Status: Cleared.,291.23,0,merchant:Netflix
+Purchase at Uber for shopping. Date: 2025-08-26. Status: Cleared.,194.68,0,merchant:Uber
+Purchase at Amazon for dining. Date: 2025-03-02. Status: Cleared.,140.73,0,merchant:Amazon
+Purchase at Amazon for shopping. Date: 2025-07-05. Status: Cleared.,152.23,0,merchant:Amazon
+Purchase at Whole Foods for transport. Date: 2025-03-09. Status: Cleared.,138.68,0,merchant:Whole Foods
+Urgent wire transfer detected. Keyword: offshore. Destination: Unknown. Amount: $16255.65. Risk: High.,16255.65,1,keyword:offshore
+Purchase at Walmart for shopping. Date: 2025-06-09. Status: Cleared.,213.09,0,merchant:Walmart
+Purchase at Amazon for utilities. Date: 2025-02-23. Status: Cleared.,70.78,0,merchant:Amazon
+Purchase at Whole Foods for groceries. Date: 2025-08-15. Status: Cleared.,117.04,0,merchant:Whole Foods
+Purchase at Amazon for dining. Date: 2025-10-04. Status: Cleared.,44.81,0,merchant:Amazon
+Purchase at Shell Station for entertainment. Date: 2025-02-25. Status: Cleared.,181.22,0,merchant:Shell Station
+Purchase at Starbucks for transport. Date: 2025-10-21. Status: Cleared.,189.8,0,merchant:Starbucks
+Purchase at Uber for transport. Date: 2025-10-02. Status: Cleared.,275.35,0,merchant:Uber
+Purchase at Whole Foods for transport. Date: 2025-08-04. Status: Cleared.,177.13,0,merchant:Whole Foods
+Purchase at Amazon for groceries. Date: 2025-04-23. Status: Cleared.,167.73,0,merchant:Amazon
+Purchase at Whole Foods for shopping. Date: 2025-03-07. Status: Cleared.,222.53,0,merchant:Whole Foods
+Purchase at Uber for groceries. Date: 2025-05-24. Status: Cleared.,275.51,0,merchant:Uber
+Purchase at Amazon for shopping. Date: 2025-07-06. Status: Cleared.,184.36,0,merchant:Amazon
+Purchase at Shell Station for dining. Date: 2025-12-06. Status: Cleared.,119.13,0,merchant:Shell Station
+Purchase at Starbucks for utilities. Date: 2025-08-23. Status: Cleared.,127.05,0,merchant:Starbucks
+Purchase at Whole Foods for utilities. Date: 2025-02-07. Status: Cleared.,233.39,0,merchant:Whole Foods
+Purchase at Amazon for entertainment. Date: 2025-01-12. Status: Cleared.,82.99,0,merchant:Amazon
+Purchase at Shell Station for entertainment. Date: 2025-01-29. Status: Cleared.,30.78,0,merchant:Shell Station
+Purchase at Netflix for dining. Date: 2025-11-18. Status: Cleared.,37.45,0,merchant:Netflix
+Purchase at Amazon for dining. Date: 2025-01-16. Status: Cleared.,100.82,0,merchant:Amazon
+Purchase at Shell Station for entertainment. Date: 2025-08-22. Status: Cleared.,22.56,0,merchant:Shell Station
+Purchase at Shell Station for utilities. Date: 2025-12-05. Status: Cleared.,105.12,0,merchant:Shell Station
+Purchase at Starbucks for dining. Date: 2025-03-15. Status: Cleared.,200.4,0,merchant:Starbucks
+Purchase at Whole Foods for dining. Date: 2025-08-04. Status: Cleared.,153.05,0,merchant:Whole Foods
+Purchase at Netflix for shopping. Date: 2025-01-05. Status: Cleared.,49.91,0,merchant:Netflix
+Purchase at Starbucks for groceries. Date: 2025-06-02. Status: Cleared.,16.41,0,merchant:Starbucks
+Purchase at Whole Foods for utilities. Date: 2025-07-12. Status: Cleared.,151.23,0,merchant:Whole Foods
+Purchase at Target for shopping. Date: 2025-03-28. Status: Cleared.,21.74,0,merchant:Target
+Purchase at Amazon for utilities. Date: 2025-03-13. Status: Cleared.,99.51,0,merchant:Amazon
+Purchase at Shell Station for utilities. Date: 2025-06-09. Status: Cleared.,201.46,0,merchant:Shell Station
+Purchase at Starbucks for transport. Date: 2025-10-28. Status: Cleared.,257.1,0,merchant:Starbucks
+Purchase at Target for utilities. Date: 2025-06-21. Status: Cleared.,48.37,0,merchant:Target
+Purchase at Amazon for utilities. Date: 2025-10-20. Status: Cleared.,224.58,0,merchant:Amazon
+Purchase at Whole Foods for transport. Date: 2025-04-29. Status: Cleared.,161.67,0,merchant:Whole Foods
+Purchase at Walmart for dining. Date: 2025-01-21. Status: Cleared.,56.73,0,merchant:Walmart
+Purchase at Walmart for entertainment. Date: 2025-08-01. Status: Cleared.,98.05,0,merchant:Walmart
+Purchase at Shell Station for transport. Date: 2025-07-01. Status: Cleared.,202.39,0,merchant:Shell Station
+Urgent wire transfer detected. Keyword: gift card. Destination: Russia. Amount: $28911.94. Risk: High.,28911.94,1,keyword:gift card
+Purchase at Whole Foods for utilities. Date: 2025-04-11. Status: Cleared.,238.91,0,merchant:Whole Foods
+Purchase at Amazon for utilities. Date: 2025-11-18. Status: Cleared.,31.82,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: suspicious. Destination: Russia. Amount: $19437.04. Risk: High.,19437.04,1,keyword:suspicious
+Purchase at Uber for groceries. Date: 2025-04-18. Status: Cleared.,114.52,0,merchant:Uber
+Purchase at Amazon for groceries. Date: 2025-10-16. Status: Cleared.,115.46,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: crypto. Destination: Unknown. Amount: $27768.29. Risk: High.,27768.29,1,keyword:crypto
+Purchase at Uber for utilities. Date: 2025-11-14. Status: Cleared.,202.09,0,merchant:Uber
+Purchase at Netflix for groceries. Date: 2025-05-08. Status: Cleared.,127.06,0,merchant:Netflix
+Purchase at Amazon for transport. Date: 2025-08-04. Status: Cleared.,122.09,0,merchant:Amazon
+Purchase at Whole Foods for dining. Date: 2025-03-29. Status: Cleared.,68.57,0,merchant:Whole Foods
+Purchase at Whole Foods for dining. Date: 2025-04-07. Status: Cleared.,69.19,0,merchant:Whole Foods
+Purchase at Amazon for shopping. Date: 2025-05-24. Status: Cleared.,27.81,0,merchant:Amazon
+Purchase at Uber for groceries. Date: 2025-10-28. Status: Cleared.,296.92,0,merchant:Uber
+Purchase at Uber for transport. Date: 2025-11-17. Status: Cleared.,11.52,0,merchant:Uber
+Urgent wire transfer detected. Keyword: offshore. Destination: Cayman Islands. Amount: $8211.05. Risk: High.,8211.05,1,keyword:offshore
+Purchase at Starbucks for shopping. Date: 2025-04-03. Status: Cleared.,223.84,0,merchant:Starbucks
+Purchase at Uber for groceries. Date: 2025-10-15. Status: Cleared.,99.77,0,merchant:Uber
+Purchase at Amazon for groceries. Date: 2025-07-28. Status: Cleared.,144.4,0,merchant:Amazon
+Purchase at Netflix for entertainment. Date: 2025-01-20. Status: Cleared.,243.06,0,merchant:Netflix
+Purchase at Starbucks for dining. Date: 2025-08-08. Status: Cleared.,68.54,0,merchant:Starbucks
+Purchase at Uber for transport. Date: 2025-11-24. Status: Cleared.,208.25,0,merchant:Uber
+Purchase at Uber for entertainment. Date: 2025-03-24. Status: Cleared.,77.05,0,merchant:Uber
+Purchase at Uber for entertainment. Date: 2025-04-10. Status: Cleared.,275.83,0,merchant:Uber
+Purchase at Shell Station for utilities. Date: 2025-11-09. Status: Cleared.,195.01,0,merchant:Shell Station
+Purchase at Whole Foods for transport. Date: 2025-11-11. Status: Cleared.,173.79,0,merchant:Whole Foods
+Urgent wire transfer detected. Keyword: urgent. Destination: Russia. Amount: $21129.86. Risk: High.,21129.86,1,keyword:urgent
+Purchase at Amazon for shopping. Date: 2025-01-28. Status: Cleared.,249.12,0,merchant:Amazon
+Purchase at Amazon for dining. Date: 2025-04-04. Status: Cleared.,194.79,0,merchant:Amazon
+Urgent wire transfer detected. Keyword: gift card. Destination: Russia. Amount: $37543.41. Risk: High.,37543.41,1,keyword:gift card
+Purchase at Target for transport. Date: 2025-03-03. Status: Cleared.,217.67,0,merchant:Target
+Purchase at Netflix for groceries. Date: 2025-08-14. Status: Cleared.,82.06,0,merchant:Netflix
+Purchase at Shell Station for transport. Date: 2025-03-09. Status: Cleared.,163.8,0,merchant:Shell Station
+Purchase at Walmart for entertainment. Date: 2025-09-14. Status: Cleared.,291.01,0,merchant:Walmart
+Purchase at Netflix for entertainment. Date: 2025-02-25. Status: Cleared.,265.21,0,merchant:Netflix
+Purchase at Amazon for groceries. Date: 2025-02-26. Status: Cleared.,183.06,0,merchant:Amazon
+Purchase at Whole Foods for entertainment. Date: 2025-09-26. Status: Cleared.,139.72,0,merchant:Whole Foods
+Purchase at Target for groceries. Date: 2025-02-22. Status: Cleared.,215.07,0,merchant:Target
+Purchase at Amazon for groceries. Date: 2025-09-07. Status: Cleared.,170.86,0,merchant:Amazon
+Purchase at Netflix for entertainment. Date: 2025-11-29. Status: Cleared.,233.83,0,merchant:Netflix
+Purchase at Uber for shopping. Date: 2025-10-08. Status: Cleared.,197.12,0,merchant:Uber
+Purchase at Target for transport. Date: 2025-04-11. Status: Cleared.,150.25,0,merchant:Target
+Purchase at Shell Station for utilities. Date: 2025-05-07. Status: Cleared.,26.72,0,merchant:Shell Station
+Purchase at Target for entertainment. Date: 2025-03-13. Status: Cleared.,216.0,0,merchant:Target
+Purchase at Netflix for utilities. Date: 2025-07-10. Status: Cleared.,183.28,0,merchant:Netflix
+Purchase at Whole Foods for groceries. Date: 2025-03-15. Status: Cleared.,73.44,0,merchant:Whole Foods
+Purchase at Shell Station for shopping. Date: 2025-04-11. Status: Cleared.,205.15,0,merchant:Shell Station
+Purchase at Starbucks for entertainment. Date: 2025-07-22. Status: Cleared.,225.11,0,merchant:Starbucks
+Purchase at Starbucks for groceries. Date: 2025-11-13. Status: Cleared.,28.95,0,merchant:Starbucks

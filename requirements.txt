@@ -1,0 +1,15 @@
+pandas
+numpy
+faker
+langchain
+langchain-core
+langchain-huggingface
+python-dotenv
+
+torch
+huggingface-hub
+sentence-transformers>=2.2.2
+transformers>=4.40.2
+
+
+-e .
