@@ -7,7 +7,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from dotenv import load_dotenv
 load_dotenv()
 
-from data_ingestion import DataIngestion
+from src.components.data_ingestion import DataIngestion
 from src.logger import logging
 from src.exception import CustomException
 

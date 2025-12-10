@@ -10,7 +10,8 @@ from src.logger import logging
 
 class output(BaseModel):
     Decision:Literal['SEARCH','CHAT']=Field(description="Choose 'SEARCH' if the query requires technical fraud detection info. Choose 'CHAT' for general conversation.")
-    query:str=Field(default="N/A",description="If decision is SEARCH, extract the core technical keywords. If CHAT, return 'N/A'.")
+    query:str=Field(default="N/A",description="If decision is SEARCH, extract the core technical keywords. If CHAT, return 'N/A.")
+    original_query:str=Field(description="give the user's original query")
 
 class Router_llm:
     def __init__(self):

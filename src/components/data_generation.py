@@ -62,7 +62,7 @@ class DataGenerator:
             "metadata": f"keyword:{keyword}"
         }
 
-    def initiate_data_generation(self, num_rows=10000):
+    def initiate_data_generation(self, num_rows=100):
         """
         Main function to trigger data generation.
         """
@@ -95,7 +95,7 @@ class DataGenerator:
         except Exception as e:
             raise CustomException(e, sys)
         
-if __name__ == "__main__":
-    gen = DataGenerator()
-    path = gen.initiate_data_generation(1000)
-    print(f"check at path{path}")
+# if __name__ == "__main__":
+#     gen = DataGenerator()
+#     path = gen.initiate_data_generation(1000)
+#     print(f"check at path{path}")
