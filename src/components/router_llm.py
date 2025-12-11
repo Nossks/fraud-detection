@@ -16,7 +16,7 @@ class output(BaseModel):
 class Router_llm:
     def __init__(self):
         logging.info('inititalizing router')
-        self.router_llm = ChatGoogleGenerativeAI(model='gemini-2.5-flash')
+        self.router_llm = ChatGoogleGenerativeAI(model='gemini-1.5-flash')
         self.structured_router_llm = self.router_llm.with_structured_output(output)
 
         logging.info('loading router prompt template')
