@@ -1,105 +1,107 @@
-document.getElementById("chatForm").addEventListener("submit", async function(e) {
+const chatForm = document.getElementById('chatForm');
+const userInput = document.getElementById('userInput');
+const chatbox = document.getElementById('chatbox');
+const modeBadge = document.getElementById('mode-badge');
+
+// Metrics Elements
+const elCyborg = document.getElementById('cyborg-val');
+const elFaiss = document.getElementById('faiss-val');
+const elChroma = document.getElementById('chroma-val');
+const elOverFaiss = document.getElementById('overhead-faiss');
+const elOverChroma = document.getElementById('overhead-chroma');
+
+chatForm.addEventListener('submit', async function(e) {
     e.preventDefault();
-    
-    // 1. Get DOM Elements
-    const inputField = document.getElementById("userInput");
-    const chatbox = document.getElementById("chatbox");
-    const query = inputField.value;
-    
-    // 2. Add User Message to UI
+    const text = userInput.value.trim();
+    if(!text) return;
+
+    // 1. UI Updates
+    userInput.value = '';
     chatbox.innerHTML += `
         <div class="msg msg-user">
-            <div class="bubble bubble-user">${query}</div>
+            <div class="bubble bubble-user">${text}</div>
         </div>`;
-    inputField.value = "";
-    chatbox.scrollTop = chatbox.scrollHeight; // Auto-scroll to bottom
+    chatbox.scrollTop = chatbox.scrollHeight;
 
-    // 3. Prepare Data for Backend
+    // 2. Send Data
     const formData = new FormData();
-    formData.append("msg", query);
+    formData.append("msg", text);
 
     try {
-        // 4. Send Request to Flask App
-        const response = await fetch("/get_response", { method: "POST", body: formData });
-        const data = await response.json();
+        const res = await fetch('/get_response', {
+            method: 'POST',
+            body: formData
+        });
+        const data = await res.json();
 
-        // 5. Add Bot Response to UI
-        // Replace newlines with <br> for HTML rendering
-        const formattedReply = data.response.replace(/\n/g, "<br>");
+        // 3. Display Response
+        const replyHtml = data.response.replace(/\n/g, "<br>");
         chatbox.innerHTML += `
             <div class="msg msg-bot">
-                <div class="bubble bubble-bot">${formattedReply}</div>
+                <div class="bubble bubble-bot">${replyHtml}</div>
             </div>`;
         chatbox.scrollTop = chatbox.scrollHeight;
 
-        // 6. UPDATE METRICS DASHBOARD
-        const modeBadge = document.getElementById("mode-indicator");
-        
-        // Logic: Check if 'cyborg' metric exists and is non-zero (Meaning a Search happened)
-        if (data.metrics && data.metrics.cyborg > 0) {
-            // --- SEARCH MODE ACTIVE ---
-            modeBadge.innerText = "Mode: SEARCH 🔍";
-            modeBadge.className = "status-badge status-active"; // Turn Green
+        // 4. METRICS & ROUTER LOGIC
+        if (data.mode_used === "search" && data.metrics) {
+            // --- SEARCH MODE ---
+            modeBadge.innerHTML = `<i class="fas fa-database me-1"></i> Router: SEARCH`;
+            modeBadge.className = "badge bg-success border border-success p-2"; 
 
-            // Extract Values (Default to 0 if missing)
-            const cyborgTime = data.metrics.cyborg;
-            const faissTime = data.metrics.faiss || 0; 
-            const chromaTime = data.metrics.chroma || 0;
+            // Extract Values
+            const cyborg = data.metrics.cyborg || 0;
+            const faiss = data.metrics.faiss || 0;
+            const chroma = data.metrics.chroma || 0;
 
-            // Update Latency Text
-            document.getElementById("cyborg-val").innerText = cyborgTime.toFixed(4) + "s";
-            document.getElementById("faiss-val").innerText = faissTime.toFixed(4) + "s";
-            document.getElementById("chroma-val").innerText = chromaTime.toFixed(4) + "s";
-
-            // --- CALCULATE COMPARISONS (Faster/Slower) ---
-
-            // A. vs FAISS
-            if (faissTime > 0) {
-                const diff = ((cyborgTime - faissTime) / faissTime) * 100;
-                const el = document.getElementById("overhead-faiss");
-
+            // Update Raw Numbers
+            elCyborg.innerText = cyborg.toFixed(4) + "s";
+            elFaiss.innerText = faiss.toFixed(4) + "s";
+            elChroma.innerText = chroma.toFixed(4) + "s";
+            
+            // --- CALCULATE OVERHEADS ---
+            // vs FAISS
+            if (faiss > 0) {
+                const diff = ((cyborg - faiss) / faiss) * 100;
                 if (diff > 0) {
-                    // Positive Diff = Cyborg took MORE time = Slower
-                    el.innerText = diff.toFixed(0) + "% Slower";
-                    el.className = "metric-value text-warning"; 
+                    elOverFaiss.innerText = diff.toFixed(0) + "% Slower";
+                    elOverFaiss.className = "fw-bold text-warning";
                 } else {
-                    // Negative Diff = Cyborg took LESS time = Faster
-                    el.innerText = Math.abs(diff).toFixed(0) + "% Faster";
-                    el.className = "metric-value text-success"; 
+                    elOverFaiss.innerText = Math.abs(diff).toFixed(0) + "% Faster";
+                    elOverFaiss.className = "fw-bold text-success";
                 }
-            } else {
-                document.getElementById("overhead-faiss").innerText = "N/A";
-            }
+            } else { elOverFaiss.innerText = "N/A"; }
 
-            // B. vs CHROMA
-            if (chromaTime > 0) {
-                const diff = ((cyborgTime - chromaTime) / chromaTime) * 100;
-                const el = document.getElementById("overhead-chroma");
-
+            // vs Chroma
+            if (chroma > 0) {
+                const diff = ((cyborg - chroma) / chroma) * 100;
                 if (diff > 0) {
-                    el.innerText = diff.toFixed(0) + "% Slower";
-                    el.className = "metric-value text-warning";
+                    elOverChroma.innerText = diff.toFixed(0) + "% Slower";
+                    elOverChroma.className = "fw-bold text-warning";
                 } else {
-                    el.innerText = Math.abs(diff).toFixed(0) + "% Faster";
-                    el.className = "metric-value text-success";
+                    elOverChroma.innerText = Math.abs(diff).toFixed(0) + "% Faster";
+                    elOverChroma.className = "fw-bold text-success";
                 }
-            } else {
-                document.getElementById("overhead-chroma").innerText = "N/A";
-            }
+            } else { elOverChroma.innerText = "N/A"; }
 
         } else {
-            // --- CHAT MODE (IDLE) ---
-            modeBadge.innerText = "Mode: CHAT 💬";
-            modeBadge.className = "status-badge status-idle"; // Turn Gray
+            // --- CHAT MODE ---
+            modeBadge.innerHTML = `<i class="fas fa-comments me-1"></i> Router: CHAT`;
+            modeBadge.className = "badge bg-secondary border border-secondary p-2"; 
+
+            // Reset Metrics to Zero / Dashes
+            elCyborg.innerText = "0.000s";
+            elFaiss.innerText = "--";
+            elChroma.innerText = "--";
+            elOverFaiss.innerText = "--";
+            elOverChroma.innerText = "--";
             
-            // Note: We don't reset the numbers to 0 here so the previous search result stays visible.
+            // Remove color classes from comparisons
+            elOverFaiss.className = "fw-bold text-secondary";
+            elOverChroma.className = "fw-bold text-secondary";
         }
 
-    } catch (error) {
-        console.error("Error:", error);
-        chatbox.innerHTML += `
-            <div class="msg msg-bot">
-                <div class="bubble bubble-bot text-danger">Error connecting to server. Check console.</div>
-            </div>`;
+    } catch (err) {
+        console.error(err);
+        chatbox.innerHTML += `<div class="msg msg-bot text-danger">Error connecting to server.</div>`;
     }
 });

@@ -20,7 +20,7 @@ class Router_llm:
         self.structured_router_llm = self.router_llm.with_structured_output(output)
 
         logging.info('loading router prompt template')
-        self.template = load_prompt('router_template.json')
+        self.template = load_prompt('/home/cry_more/ongoing/fraud-detection/router_template.json')
         self.router_llm_chain = self.template | self.structured_router_llm
 
         logging.info('router chain created')

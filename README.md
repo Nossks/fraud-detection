@@ -3,14 +3,14 @@
 **Privacy-First Financial Forensics Powered by CyborgDB**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python\&logoColor=white)](https://www.python.org/)
-[![Database](https://img.shields.io/badge/Vector_DB-CyborgDB_Encrypted-red?logo=lock\&logoColor=white)](https://cyborgdb.ai/)
+[![Database](https://img.shields.io/badge/Vector_DB-CyborgDB_Encrypted-red?logo=lock\&logoColor=white)](https://www.cyborg.co/)
 [![AI](https://img.shields.io/badge/LangChain-RAG-orange?logo=chainlink\&logoColor=white)](https://www.langchain.com/)
 [![Security](https://img.shields.io/badge/Data-AES_256-green?logo=security\&logoColor=white)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **FinGuard** is a secure **Retrieval-Augmented Generation (RAG)** pipeline designed to detect anomalies and flag potential fraud in sensitive financial documents.
+> **fraud_detection** is a secure **Retrieval-Augmented Generation (RAG)** pipeline designed to detect anomalies and flag potential fraud in sensitive financial documents.
 >
-> Financial data demands absolute privacy. Unlike standard RAG implementations, FinGuard leverages **CyborgDB** to ensure that all transaction embeddings are **encrypted at rest and in transit**. We enable AI-driven insights without ever exposing raw financial vectors to plain-text vulnerabilities.
+> Financial data demands absolute privacy. Unlike standard RAG implementations, it leverages **CyborgDB** to ensure that all transaction embeddings are **encrypted at rest and in transit**. We enable AI-driven insights without ever exposing raw financial vectors to plain-text vulnerabilities.
 
 ---
 
@@ -70,6 +70,7 @@ Click here to view the full interactive `benchmark.html` report.
 * **Context-Aware Forensics**: Queries like `"Show me transactions over $10k sent to offshore accounts"` retrieve exact matches from the encrypted index.
 * **Hybrid Analysis**: Combines semantic search (RAG) with rule-based filtering for maximum fraud detection coverage.
 * **Persistent Secure Indexing**: Ingest terabytes of logs once; query securely forever.
+* **Synthetic Data Genration**:Gerates Synthetic data using Faker library.
 
 ---
 
@@ -79,8 +80,8 @@ Click here to view the full interactive `benchmark.html` report.
 
 * Vector Database — CyborgDB (Encrypted Storage)
 * Orchestration — LangChain, Python
-* Embeddings — Hugging Face (all-MiniLM-L6-v2)
-* Web Interface — Streamlit / Flask (adjust as per your code)
+* Embeddings — Hugging Face (sentence-transformers/all-MiniLM-L6-v2)
+* Web Interface —  Flask 
 * Data Processing — Pandas, NumPy
 
 ---
@@ -89,15 +90,15 @@ Click here to view the full interactive `benchmark.html` report.
 
 ### Prerequisites
 
-* Python 3.10+
+* Python 3.11
 * CyborgDB API Key (Required for encrypted storage)
 * Git
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FinGuard.git
-cd FinGuard
+git clone https://github.com/Nossks/fraud_detection.git
+cd fraud_detection
 ```
 
 ### 2. Set up Virtual Environment
@@ -126,16 +127,16 @@ CYBORGDB_API_KEY=your_cyborg_api_key
 CYBORGDB_URL=your_cyborg_instance_url
 
 # AI Models
-HUGGINGFACEHUB_ACCESS_TOKEN=hf_your_token_here
-OPENAI_API_KEY=sk-optional-if-using-gpt
+HUGGINGFACEHUB_API_TOKEN=hf_your_token_here
+GOOGLE_API_KEY=api-key
 ```
 
 ### 5. Run the Application
 
-Run the Ingestion Pipeline (Index Data):
+Run the Prediction Pipeline :
 
 ```bash
-python ingestion.py
+python prediction.py
 ```
 
 Launch the Dashboard:
@@ -149,17 +150,16 @@ python app.py
 ## 📂 Project Structure
 
 ```
-FinGuard/
-├── static/              # Assets & Screenshots
-├── templates/           # Web Templates
-├── app.py               # Main Application Logic
-├── ingestion.py         # Script to encrypt & upload docs to CyborgDB
-├── benchmark.py         # Latency & Accuracy Testing
-├── benchmark.html       # Generated Report
-├── utils/               # Helper functions for RAG
-├── .env                 # Secrets (Never commit this)
-├── requirements.txt     # Dependencies
-└── README.md            # Documentation
+fraud_detection/
+├── app.py                  # Application entry point
+├── src/                    # Core logic (pipelines, components, utils)
+├── data/                   # Datasets and vector stores
+├── notebooks/              # Experiments and prototyping
+├── static/ & templates/    # Frontend assets
+├── logs/                   # Runtime logs
+├── requirements.txt
+└── README.md
+
 ```
 
 ---

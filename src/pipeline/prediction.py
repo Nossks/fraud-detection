@@ -38,6 +38,7 @@ class Prediction:
         return self.chat_history
 
     def predict(self,query):
+        self.metrics_of_retrieved_context = {'cyborg': 0, 'faiss': 0, 'chroma': 0}
         logging.info('getting ready to predict')
         branch_chain = RunnableBranch(
             (lambda x: x.Decision == 'SEARCH', RunnableLambda(self._search_path)),
