@@ -1,4 +1,4 @@
-# 🛡️ FinGuard: Secure Fraud Detection RAG
+# 🛡️ Fraud Detection: Secure Fraud Detection RAG
 
 **Privacy-First Financial Forensics Powered by CyborgDB**
 
@@ -34,22 +34,50 @@ We utilize **CyborgDB** to maintain a "Zero-Trust" architecture for vector stora
 
 ```mermaid
 graph TD
-    subgraph "Secure Ingestion"
-        A[Financial Logs / PDFs] -->|Anonymize & Chunk| B(Preprocessing)
+    subgraph "Ingestion Phase"
+        A[Synthetic Data Generator] -->|Create Logs| B(Data Ingestion)
         B -->|Generate Embeddings| C[Hugging Face Transformer]
         C -->|Encrypt & Store| D[(CyborgDB Encrypted Cloud)]
     end
 
-    subgraph "Forensic Inference"
-        E[Investigator Query] -->|Embed Query| F[Hugging Face Transformer]
+    subgraph "Inference Phase"
+        E[User Query] --> R{Router LLM}
+        
+        %% Chat Branch (Zero Latency)
+        R -->|Chat Mode| L[Direct LLM Response]
+        L --> I[Analyst Dashboard]
+
+        %% Search Branch (RAG)
+        R -->|Search Mode| F[Embed Query]
         F -->|Encrypted Similarity Search| D
         D -->|Retrieve Decrypted Context| G[Transaction Context]
-        G -->|Combine with Risk Prompt| H[LLM Chain]
-        H -->|Generate Risk Report| I[Analyst Dashboard]
+        G -->|Combine with Risk Prompt| H[Main LLM Chain]
+        H -->|Generate Risk Report| I
     end
 
-    style D fill:#ffcccc,stroke:#ff0000,stroke-width:2px,stroke-dasharray: 5 5
-    style I fill:#bbf,stroke:#333,stroke-width:2px
+    %% --- STYLING (Dark Theme for GitHub Visibility) ---
+    
+    %% Standard Nodes (Dark Grey)
+    style A fill:#2d2d2d,stroke:#ffffff,stroke-width:2px,color:#fff
+    style B fill:#2d2d2d,stroke:#ffffff,stroke-width:2px,color:#fff
+    style C fill:#2d2d2d,stroke:#ffffff,stroke-width:2px,color:#fff
+    style E fill:#2d2d2d,stroke:#ffffff,stroke-width:2px,color:#fff
+    style F fill:#2d2d2d,stroke:#ffffff,stroke-width:2px,color:#fff
+    style G fill:#2d2d2d,stroke:#ffffff,stroke-width:2px,color:#fff
+    style H fill:#2d2d2d,stroke:#ffffff,stroke-width:2px,color:#fff
+
+    %% Key Nodes (Colored Accents)
+    %% CyborgDB (Dark Red)
+    style D fill:#4a151b,stroke:#ff6b6b,stroke-width:2px,stroke-dasharray: 5 5,color:#fff
+    
+    %% Router (Dark Gold)
+    style R fill:#3d3100,stroke:#ffd700,stroke-width:2px,color:#fff
+    
+    %% Direct Chat (Dark Green)
+    style L fill:#0d3329,stroke:#00ff41,stroke-width:2px,color:#fff
+    
+    %% Dashboard (Dark Blue)
+    style I fill:#0e2a35,stroke:#00f0ff,stroke-width:2px,color:#fff
 ```
 
 ---
