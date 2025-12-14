@@ -23,7 +23,7 @@
 
 ### 🎥 Watch the System in Action
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the Demo](https://www.youtube.com/watch?v=OIHUFWAG0HI)
 *Click the thumbnail above to see the Encrypted Fraud Detection pipeline flow.*
 
 ---
