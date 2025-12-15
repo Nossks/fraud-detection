@@ -145,7 +145,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Configure Environment Variables
+### 4. Configure Environment Variables and api key
 
 Create a `.env` file. You must provide CyborgDB credentials to enable the encrypted layer.
 
@@ -155,6 +155,9 @@ HUGGINGFACEHUB_API_TOKEN=hf_your_token_here
 GOOGLE_API_KEY=api-key
 ```
 
+```
+set cyborg db api key in data ingestion file located at src/components
+```
 ### 5. Run the Application
 
 Run the Prediction Pipeline :
